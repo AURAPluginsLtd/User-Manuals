@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "product": "access-virus-editor",
+  "title": "Access Virus Editor User Manual",
+  "pages": [
+    {
+      "order": 0,
+      "file": "00-introduction.md",
+      "title": "Introduction"
+    },
+    {
+      "order": 1,
+      "file": "01-product-introduction.md",
+      "title": "Product Introduction"
+    },
+    {
+      "order": 2,
+      "file": "02-make-the-connection.md",
+      "title": "Make The Connection"
+    },
+    {
+      "order": 3,
+      "file": "03-basic-functions.md",
+      "title": "Basic Functions"
+    },
+    {
+      "order": 4,
+      "file": "04-utilities-menu.md",
+      "title": "Utilities Menu"
+    },
+    {
+      "order": 5,
+      "file": "05-patch-librarian.md",
+      "title": "Patch Librarian"
+    },
+    {
+      "order": 6,
+      "file": "06-librarian-edit-menus.md",
+      "title": "Librarian Edit Menus"
+    },
+    {
+      "order": 7,
+      "file": "07-troubleshooting.md",
+      "title": "Troubleshooting"
+    }
+  ]
+}
