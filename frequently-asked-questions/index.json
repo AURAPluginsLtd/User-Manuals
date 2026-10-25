@@ -1,0 +1,202 @@
+{
+  "version": 1,
+  "title": "Frequently Asked Questions",
+  "departments": [
+    "Store",
+    "General",
+    "License",
+    "Troubleshooting",
+    "MISC"
+  ],
+  "questions": [
+    {
+      "order": 1,
+      "file": "01-who-is-aura-plugins.md",
+      "question": "Who is AURA Plugins?",
+      "department": "Store",
+      "source_url": "https://auraplugins.com/kb/faq/who-is-aura-plugins/"
+    },
+    {
+      "order": 2,
+      "file": "02-does-your-prices-include-taxes-vat.md",
+      "question": "Does your prices include taxes / VAT?",
+      "department": "Store",
+      "source_url": "https://auraplugins.com/kb/faq/does-your-prices-include-taxes-vat/"
+    },
+    {
+      "order": 3,
+      "file": "03-what-payment-methods-do-you-accept.md",
+      "question": "What payment methods do you accept?",
+      "department": "Store",
+      "source_url": "https://auraplugins.com/kb/faq/what-payment-methods-do-you-accept/"
+    },
+    {
+      "order": 4,
+      "file": "04-do-you-accept-refunds.md",
+      "question": "Do you accept refunds?",
+      "department": "Store",
+      "source_url": "https://auraplugins.com/kb/faq/do-you-accept-refunds/"
+    },
+    {
+      "order": 5,
+      "file": "05-why-is-my-order-payment-stuck.md",
+      "question": "Why is my order payment stuck?",
+      "department": "Store",
+      "source_url": "https://auraplugins.com/kb/faq/why-is-my-order-payment-stuck/"
+    },
+    {
+      "order": 6,
+      "file": "06-if-i-place-preorder-for-upcoming-editor-product-will-i-have-access-to-beta-version.md",
+      "question": "If I place preorder for upcoming Editor product, will I have access to BETA version?",
+      "department": "Store",
+      "source_url": "https://auraplugins.com/kb/faq/if-i-place-preorder-for-upcoming-editor-product-will-i-have-access-to-beta-version/"
+    },
+    {
+      "order": 7,
+      "file": "07-is-the-preorder-charged-upfront-or-at-release-date.md",
+      "question": "Is the preorder charged upfront or at release date?",
+      "department": "Store",
+      "source_url": "https://auraplugins.com/kb/faq/is-the-preorder-charged-upfront-or-at-release-date/"
+    },
+    {
+      "order": 8,
+      "file": "08-what-is-the-best-way-to-contact-you.md",
+      "question": "What is the best way to contact you?",
+      "department": "Store",
+      "source_url": "https://auraplugins.com/kb/faq/what-is-the-best-way-to-contact-you/"
+    },
+    {
+      "order": 9,
+      "file": "09-do-these-editors-generate-any-sound.md",
+      "question": "Do these Editors generate any sound?",
+      "department": "General",
+      "source_url": "https://auraplugins.com/kb/faq/do-these-editors-generate-any-sound/"
+    },
+    {
+      "order": 10,
+      "file": "10-what-are-the-editor-requirements.md",
+      "question": "What are the Editor requirements?",
+      "department": "General",
+      "source_url": "https://auraplugins.com/kb/faq/what-are-the-editor-requirements/"
+    },
+    {
+      "order": 11,
+      "file": "11-which-functions-are-not-available-in-the-demo-version.md",
+      "question": "Which functions are not available in the DEMO version?",
+      "department": "General",
+      "source_url": "https://auraplugins.com/kb/faq/which-functions-are-not-available-in-the-demo-version/"
+    },
+    {
+      "order": 12,
+      "file": "12-i-am-unable-to-run-the-installer-what-can-i-do.md",
+      "question": "I am unable to run the Installer, what can I do?",
+      "department": "General",
+      "source_url": "https://auraplugins.com/kb/faq/i-am-unable-to-run-the-installer-what-can-i-do/"
+    },
+    {
+      "order": 13,
+      "file": "13-where-is-the-editor-user-manuals-located.md",
+      "question": "Where is the Editor User Manuals located?",
+      "department": "General",
+      "source_url": "https://auraplugins.com/kb/faq/where-is-the-editor-user-manuals-located/"
+    },
+    {
+      "order": 14,
+      "file": "14-do-i-need-to-remove-the-demo-before-installing-the-full-version.md",
+      "question": "Do I need to remove the DEMO before installing the FULL version?",
+      "department": "General",
+      "source_url": "https://auraplugins.com/kb/faq/do-i-need-to-remove-the-demo-before-installing-full-version/"
+    },
+    {
+      "order": 15,
+      "file": "15-i-just-purchased-the-editor-where-can-i-download-the-license.md",
+      "question": "I just purchased the Editor, where can I download the license?",
+      "department": "License",
+      "source_url": "https://auraplugins.com/kb/faq/i-just-purchased-the-editor-where-can-i-download-the-license/"
+    },
+    {
+      "order": 16,
+      "file": "16-do-i-need-a-internet-connection-to-activate-the-editor.md",
+      "question": "Do I need a internet connection to activate the Editor?",
+      "department": "License",
+      "source_url": "https://auraplugins.com/kb/faq/do-i-need-a-internet-connection-to-activate-the-editor/"
+    },
+    {
+      "order": 17,
+      "file": "17-how-do-i-add-the-license-for-the-editor-to-register.md",
+      "question": "How do I add the license for the Editor to register?",
+      "department": "License",
+      "source_url": "https://auraplugins.com/kb/faq/how-do-i-add-the-license-for-the-editor-to-register/"
+    },
+    {
+      "order": 18,
+      "file": "18-why-editor-says-reload-license-after-copying-license-to-right-folder.md",
+      "question": "Why Editor says reload license after copying license to right folder?",
+      "department": "License",
+      "source_url": "https://auraplugins.com/kb/faq/why-editor-says-reload-license-after-copying-license-to-right-folder/"
+    },
+    {
+      "order": 19,
+      "file": "19-can-i-use-my-license-on-multiple-computers.md",
+      "question": "Can I use my license on multiple computers?",
+      "department": "License",
+      "source_url": "https://auraplugins.com/kb/faq/can-i-use-my-license-on-multiple-computers/"
+    },
+    {
+      "order": 20,
+      "file": "20-can-i-transfer-my-license-to-someone-else-when-i-sell-the-synth.md",
+      "question": "Can I transfer my license to someone else when I sell the synth?",
+      "department": "License",
+      "source_url": "https://auraplugins.com/kb/faq/can-i-transfer-my-license-to-someone-else-when-i-sell-the-synth/"
+    },
+    {
+      "order": 21,
+      "file": "21-i-think-i-found-a-bug-how-can-i-report-it.md",
+      "question": "I think I found a BUG, how can I report it?",
+      "department": "Troubleshooting",
+      "source_url": "https://auraplugins.com/kb/faq/i-think-i-found-a-bug-how-can-i-report-it/"
+    },
+    {
+      "order": 22,
+      "file": "22-why-editor-fails-to-connect-with-the-hardware.md",
+      "question": "Why Editor fails to connect with the hardware?",
+      "department": "Troubleshooting",
+      "source_url": "https://auraplugins.com/kb/faq/why-editor-fails-to-connect-with-the-hardware/"
+    },
+    {
+      "order": 23,
+      "file": "23-why-my-daw-crashes-when-i-set-midi-in-out-from-the-editor.md",
+      "question": "Why my DAW crashes when I set MIDI in / out from the editor?",
+      "department": "Troubleshooting",
+      "source_url": "https://auraplugins.com/kb/faq/why-my-daw-crashes-when-i-set-midi-in-out-from-the-editor/"
+    },
+    {
+      "order": 24,
+      "file": "24-why-editor-displays-demo-version-after-purchasing-the-license.md",
+      "question": "Why Editor displays DEMO version after purchasing the license?",
+      "department": "Troubleshooting",
+      "source_url": "https://auraplugins.com/kb/faq/why-editor-displays-demo-version-after-purchasing-the-license/"
+    },
+    {
+      "order": 25,
+      "file": "25-is-there-a-way-to-support-your-development.md",
+      "question": "Is there a way to support your Development?",
+      "department": "MISC",
+      "source_url": "https://auraplugins.com/kb/faq/is-there-a-way-to-support-your-development/"
+    },
+    {
+      "order": 26,
+      "file": "26-how-can-i-review-your-product.md",
+      "question": "How can I review your Product?",
+      "department": "MISC",
+      "source_url": "https://auraplugins.com/kb/faq/how-can-i-review-your-product/"
+    },
+    {
+      "order": 27,
+      "file": "27-do-you-have-a-roadmap-for-future-projects.md",
+      "question": "Do you have a roadmap for future projects?",
+      "department": "MISC",
+      "source_url": "https://auraplugins.com/kb/faq/do-you-have-a-roadmap-for-future-projects/"
+    }
+  ]
+}
