@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "product": "tc-electronic-m-one-editor",
+  "title": "TC Electronic M-One Editor",
+  "documents": [
+    {
+      "id": "user-manual",
+      "title": "TC Electronic M-One Editor User Manual",
+      "path": "user-manual",
+      "kb_url": "https://auraplugins.com/kb/user-guide/tc-electronic-m-one-editor-user-manual/"
+    }
+  ]
+}

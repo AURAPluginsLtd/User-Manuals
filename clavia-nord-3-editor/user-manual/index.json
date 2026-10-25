@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "product": "clavia-nord-3-editor",
+  "title": "Clavia Nord 3 Editor User Manual",
+  "sections": [
+    {
+      "title": "Introduction",
+      "pages": [
+        {
+          "order": 0,
+          "file": "00-introduction.md",
+          "title": "Introduction",
+          "kb_url": "https://auraplugins.com/kb/user-guide/clavia-nord-3-editor-user-manual/"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "product": "clavia-nord-2-editor",
+  "title": "Clavia Nord 2 Editor",
+  "documents": [
+    {
+      "id": "user-manual",
+      "title": "Clavia Nord 2 Editor User Manual",
+      "path": "user-manual",
+      "kb_url": "https://auraplugins.com/kb/user-guide/clavia-nord-2-editor-user-manual/"
+    }
+  ]
+}

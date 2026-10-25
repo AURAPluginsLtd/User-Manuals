@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "product": "korg-microkorg-editor",
+  "title": "Korg microKorg Editor",
+  "documents": [
+    {
+      "id": "user-manual",
+      "title": "Korg microKorg Editor User Manual",
+      "path": "user-manual",
+      "kb_url": "https://auraplugins.com/kb/user-guide/korg-microkorg-editor-user-manual/"
+    }
+  ]
+}
