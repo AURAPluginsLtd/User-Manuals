@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "product": "roland-jp-80x0-editor",
+  "title": "Roland JP-80x0 Editor",
+  "documents": [
+    {
+      "id": "user-manual",
+      "title": "Roland JP-80x0 Editor User Manual",
+      "path": "user-manual",
+      "kb_url": "https://auraplugins.com/kb/user-guide/roland-jp-80x0-editor-user-manual/"
+    }
+  ]
+}
