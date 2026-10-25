@@ -1,0 +1,9 @@
+# Roland JP-80×0 Editor – How To AutoSave Librarian Edits
+
+When **AutoSave** is toggled on, any changes made in the librarian left bank view will be automatically saved. This is a dangerous function, but as per request, we included this feature.
+
+![JP-80x0 Editor User Manual - AutoSave Librarian Changes](images/jp-80x0-editor-user-manual-autosave-librarian-changes.jpg)
+
+*Figure: JP-80x0 Editor User Manual - AutoSave Librarian Changes*
+
+**NOTE:** Be aware that there is **NO** UNDO function, so you cannot revert to the previous state if you make a mistake. We would advise to make a copy of the original bank (if needed) before making changes to the bank with autosave on. Defaults to off state.
