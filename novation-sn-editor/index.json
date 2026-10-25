@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "product": "novation-sn-editor",
+  "title": "Novation SN Editor",
+  "documents": [
+    {
+      "id": "user-manual",
+      "title": "Novation SN Editor User Manual",
+      "path": "user-manual",
+      "kb_url": "https://auraplugins.com/kb/user-guide/novation-sn-editor-user-manual/"
+    }
+  ]
+}

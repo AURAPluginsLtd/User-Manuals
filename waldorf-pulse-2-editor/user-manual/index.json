@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "product": "waldorf-pulse-2-editor",
+  "title": "Waldorf Pulse 2 Editor User Manual",
+  "sections": [
+    {
+      "title": "Introduction",
+      "pages": [
+        {
+          "order": 0,
+          "file": "00-introduction.md",
+          "title": "Introduction",
+          "kb_url": "https://auraplugins.com/kb/user-guide/waldorf-pulse-2-editor-user-manual/"
+        }
+      ]
+    }
+  ]
+}

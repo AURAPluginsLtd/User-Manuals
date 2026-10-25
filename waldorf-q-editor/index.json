@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "product": "waldorf-q-editor",
+  "title": "Waldorf Q Editor",
+  "documents": [
+    {
+      "id": "user-manual",
+      "title": "Waldorf Q Editor User Manual",
+      "path": "user-manual",
+      "kb_url": "https://auraplugins.com/kb/user-guide/waldorf-q-editor-user-manual/"
+    }
+  ]
+}

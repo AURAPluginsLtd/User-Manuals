@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "product": "waldorf-pulse-2-editor",
+  "title": "Waldorf Pulse 2 Editor",
+  "documents": [
+    {
+      "id": "user-manual",
+      "title": "Waldorf Pulse 2 Editor User Manual",
+      "path": "user-manual",
+      "kb_url": "https://auraplugins.com/kb/user-guide/waldorf-pulse-2-editor-user-manual/"
+    }
+  ]
+}

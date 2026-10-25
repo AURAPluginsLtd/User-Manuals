@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "product": "waldorf-microq-editor",
+  "title": "Waldorf microQ Editor",
+  "documents": [
+    {
+      "id": "user-manual",
+      "title": "Waldorf microQ Editor User Manual",
+      "path": "user-manual",
+      "kb_url": "https://auraplugins.com/kb/user-guide/waldorf-microq-editor-user-manual/"
+    }
+  ]
+}
