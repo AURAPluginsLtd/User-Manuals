@@ -2,46 +2,521 @@
   "version": 1,
   "product": "roland-jp-80x0-editor",
   "title": "Roland JP-80x0 Editor User Manual",
-  "pages": [
+  "sections": [
     {
-      "order": 0,
-      "file": "00-introduction.md",
-      "title": "Introduction"
+      "title": "Product Introduction",
+      "pages": [
+        {
+          "order": 0,
+          "file": "00-product-capabilities.md",
+          "title": "Roland JP-80×0 Editor – Product Capabilities",
+          "kb_url": "https://auraplugins.com/kb/article/roland-jp-80x0-editor-product-capabilities/"
+        },
+        {
+          "order": 1,
+          "file": "01-requirements.md",
+          "title": "Roland JP-80×0 Editor – Requirements",
+          "kb_url": "https://auraplugins.com/kb/article/roland-jp-80x0-editor-requirements/"
+        },
+        {
+          "order": 2,
+          "file": "02-installer-downloads.md",
+          "title": "Roland JP-80×0 Editor – Installer Downloads",
+          "kb_url": "https://auraplugins.com/kb/article/roland-jp-80x0-editor-installer-downloads/"
+        },
+        {
+          "order": 3,
+          "file": "03-data-locations.md",
+          "title": "Roland JP-80×0 Editor – Data Locations",
+          "kb_url": "https://auraplugins.com/kb/article/roland-jp-80x0-editor-data-locations/"
+        },
+        {
+          "order": 4,
+          "file": "04-demo-limitations.md",
+          "title": "Roland JP-80×0 Editor – Demo Limitations",
+          "kb_url": "https://auraplugins.com/kb/article/roland-jp-80x0-editor-demo-limitations/"
+        }
+      ]
     },
     {
-      "order": 1,
-      "file": "01-product-introduction.md",
-      "title": "Product Introduction"
+      "title": "Make The Connection",
+      "pages": [
+        {
+          "order": 5,
+          "file": "05-prepare-your-hardware.md",
+          "title": "Roland JP-80×0 Editor – Prepare your Hardware",
+          "kb_url": "https://auraplugins.com/kb/article/roland-jp-80x0-editor-prepare-your-hardware/"
+        },
+        {
+          "order": 6,
+          "file": "06-configure-jp-8000.md",
+          "title": "Roland JP-80×0 Editor – Configure JP-8000",
+          "kb_url": "https://auraplugins.com/kb/article/roland-jp-80x0-editor-configure-jp-8000/"
+        },
+        {
+          "order": 7,
+          "file": "07-configure-jp-8080.md",
+          "title": "Roland JP-80×0 Editor – Configure JP-8080",
+          "kb_url": "https://auraplugins.com/kb/article/roland-jp-80x0-editor-configure-jp-8080/"
+        },
+        {
+          "order": 8,
+          "file": "08-macos-midi-configuration.md",
+          "title": "Roland JP-80×0 Editor – macOS MIDI Configuration",
+          "kb_url": "https://auraplugins.com/kb/article/roland-jp-80x0-editor-macos-midi-configuration/"
+        },
+        {
+          "order": 9,
+          "file": "09-windows-midi-configuration.md",
+          "title": "Roland JP-80×0 Editor – Windows MIDI Configuration",
+          "kb_url": "https://auraplugins.com/kb/article/roland-jp-80x0-editor-windows-midi-configuration/"
+        },
+        {
+          "order": 10,
+          "file": "10-configure-standalone-app.md",
+          "title": "Roland JP-80×0 Editor – Configure Standalone APP",
+          "kb_url": "https://auraplugins.com/kb/article/roland-jp-80x0-editor-configure-standalone-app/"
+        },
+        {
+          "order": 11,
+          "file": "11-configure-daw-and-plug-in.md",
+          "title": "Roland JP-80×0 Editor – Configure DAW and Plug-in",
+          "kb_url": "https://auraplugins.com/kb/article/roland-jp-80x0-editor-configure-daw-and-plug-in/"
+        },
+        {
+          "order": 12,
+          "file": "12-ableton-live.md",
+          "title": "Roland JP-80×0 Editor – Ableton Live",
+          "kb_url": "https://auraplugins.com/kb/article/roland-jp-80x0-editor-ableton-live/"
+        },
+        {
+          "order": 13,
+          "file": "13-creating-tracks.md",
+          "title": "Roland JP-80×0 Editor – Creating Tracks",
+          "kb_url": "https://auraplugins.com/kb/article/roland-jp-80x0-editor-creating-tracks/"
+        },
+        {
+          "order": 14,
+          "file": "14-insert-plug-in-in-live.md",
+          "title": "Roland JP-80×0 Editor – Insert Plug-in in Live",
+          "kb_url": "https://auraplugins.com/kb/article/roland-jp-80x0-editor-insert-plug-in-in-live/"
+        },
+        {
+          "order": 15,
+          "file": "15-automation-in-live.md",
+          "title": "Roland JP-80×0 Editor – Automation in Live",
+          "kb_url": "https://auraplugins.com/kb/article/roland-jp-80x0-editor-automation-in-live/"
+        },
+        {
+          "order": 16,
+          "file": "16-sync-data-from-hw.md",
+          "title": "Roland JP-80×0 Editor – Sync Data From HW",
+          "kb_url": "https://auraplugins.com/kb/article/roland-jp-80x0-editor-sync-data-from-hw/"
+        }
+      ]
     },
     {
-      "order": 2,
-      "file": "02-make-the-connection.md",
-      "title": "Make The Connection"
+      "title": "Basic Functions",
+      "pages": [
+        {
+          "order": 17,
+          "file": "17-functions.md",
+          "title": "Roland JP-80×0 Editor – Functions",
+          "kb_url": "https://auraplugins.com/kb/article/roland-jp-80x0-editor-functions/"
+        },
+        {
+          "order": 18,
+          "file": "18-jp-8000-vs-jp-8080.md",
+          "title": "Roland JP-80×0 Editor – JP-8000 vs JP-8080",
+          "kb_url": "https://auraplugins.com/kb/article/roland-jp-80x0-editor-jp-8000-vs-jp-8080/"
+        },
+        {
+          "order": 19,
+          "file": "19-how-to-resize-user-interface.md",
+          "title": "Roland JP-80×0 Editor – How To Resize User Interface",
+          "kb_url": "https://auraplugins.com/kb/article/roland-jp-80x0-editor-how-to-resize-user-interface/"
+        },
+        {
+          "order": 20,
+          "file": "20-how-to-check-license-status.md",
+          "title": "Roland JP-80×0 Editor – How To Check License Status",
+          "kb_url": "https://auraplugins.com/kb/article/roland-jp-80x0-editor-how-to-check-license-status/"
+        },
+        {
+          "order": 21,
+          "file": "21-how-to-register-our-editor.md",
+          "title": "Roland JP-80×0 Editor – How To Register our Editor",
+          "kb_url": "https://auraplugins.com/kb/article/roland-jp-80x0-editor-how-to-register-our-editor/"
+        },
+        {
+          "order": 22,
+          "file": "22-how-to-set-midi-input-and-midi-output-ports.md",
+          "title": "Roland JP-80×0 Editor – How To Set MIDI Input and MIDI Output ports",
+          "kb_url": "https://auraplugins.com/kb/article/roland-jp-80x0-editor-how-to-set-midi-input-and-midi-output-ports/"
+        },
+        {
+          "order": 23,
+          "file": "23-how-to-reset-stuck-notes-midi-panic.md",
+          "title": "Roland JP-80×0 Editor – How To Reset Stuck Notes (MIDI Panic)",
+          "kb_url": "https://auraplugins.com/kb/article/roland-jp-80x0-editor-how-to-reset-stuck-notes-midi-panic/"
+        },
+        {
+          "order": 24,
+          "file": "24-how-to-adjust-advanced-midi-settings.md",
+          "title": "Roland JP-80×0 Editor – How To Adjust Advanced MIDI Settings",
+          "kb_url": "https://auraplugins.com/kb/article/roland-jp-80x0-editor-how-to-adjust-advanced-midi-settings/"
+        },
+        {
+          "order": 25,
+          "file": "25-how-to-use-midi-learn.md",
+          "title": "Roland JP-80×0 Editor – How To Use MIDI Learn",
+          "kb_url": "https://auraplugins.com/kb/article/roland-jp-80x0-editor-how-to-use-midi-learn/"
+        },
+        {
+          "order": 26,
+          "file": "26-how-to-save-and-load-ui-data.md",
+          "title": "Roland JP-80×0 Editor – How To Save and Load UI Data",
+          "kb_url": "https://auraplugins.com/kb/article/roland-jp-80x0-editor-how-to-save-and-load-ui-data/"
+        },
+        {
+          "order": 27,
+          "file": "27-how-to-autosave-librarian-edits.md",
+          "title": "Roland JP-80×0 Editor – How To AutoSave Librarian Edits",
+          "kb_url": "https://auraplugins.com/kb/article/roland-jp-80x0-editor-how-to-autosave-librarian-edits/"
+        },
+        {
+          "order": 28,
+          "file": "28-how-to-use-show-bubble-function.md",
+          "title": "Roland JP-80×0 Editor – How To Use Show Bubble Function",
+          "kb_url": "https://auraplugins.com/kb/article/roland-jp-80x0-editor-how-to-use-show-bubble-function/"
+        },
+        {
+          "order": 29,
+          "file": "29-how-to-disable-editor-leds.md",
+          "title": "Roland JP-80×0 Editor – How To Disable Editor LEDs",
+          "kb_url": "https://auraplugins.com/kb/article/roland-jp-80x0-editor-how-to-disable-editor-leds/"
+        },
+        {
+          "order": 30,
+          "file": "30-how-to-display-parameter-tooltips.md",
+          "title": "Roland JP-80×0 Editor – How To Display Parameter Tooltips",
+          "kb_url": "https://auraplugins.com/kb/article/roland-jp-80x0-editor-how-to-display-parameter-tooltips/"
+        },
+        {
+          "order": 31,
+          "file": "31-how-to-use-randomizer.md",
+          "title": "Roland JP-80×0 Editor – How To Use Randomizer",
+          "kb_url": "https://auraplugins.com/kb/article/roland-jp-80x0-editor-how-to-use-randomizer/"
+        },
+        {
+          "order": 32,
+          "file": "32-how-to-show-keyboard-part-focus.md",
+          "title": "Roland JP-80×0 Editor – How To Show Keyboard (Part Focus)",
+          "kb_url": "https://auraplugins.com/kb/article/roland-jp-80x0-editor-how-to-show-keyboard-part-focus/"
+        },
+        {
+          "order": 33,
+          "file": "33-how-to-show-quick-help.md",
+          "title": "Roland JP-80×0 Editor – How To Show Quick Help",
+          "kb_url": "https://auraplugins.com/kb/article/roland-jp-80x0-editor-how-to-show-quick-help/"
+        },
+        {
+          "order": 34,
+          "file": "34-how-to-sync-data-from-hardware.md",
+          "title": "Roland JP-80×0 Editor – How To Sync Data From Hardware",
+          "kb_url": "https://auraplugins.com/kb/article/roland-jp-80x0-editor-how-to-sync-data-from-hardware/"
+        },
+        {
+          "order": 35,
+          "file": "35-how-to-push-data-to-hardware.md",
+          "title": "Roland JP-80×0 Editor – How To Push Data To Hardware",
+          "kb_url": "https://auraplugins.com/kb/article/roland-jp-80x0-editor-how-to-push-data-to-hardware/"
+        },
+        {
+          "order": 36,
+          "file": "36-how-to-abort-processes.md",
+          "title": "Roland JP-80×0 Editor – How To Abort Processes",
+          "kb_url": "https://auraplugins.com/kb/article/roland-jp-80x0-editor-how-to-abort-processes/"
+        },
+        {
+          "order": 37,
+          "file": "37-how-to-use-section-locks.md",
+          "title": "Roland JP-80×0 Editor – How To Use Section Locks",
+          "kb_url": "https://auraplugins.com/kb/article/roland-jp-80x0-editor-how-to-use-section-locks/"
+        },
+        {
+          "order": 38,
+          "file": "38-how-to-use-section-menus.md",
+          "title": "Roland JP-80×0 Editor – How To Use Section Menus",
+          "kb_url": "https://auraplugins.com/kb/article/roland-jp-80x0-editor-how-to-use-section-menus/"
+        },
+        {
+          "order": 39,
+          "file": "39-how-to-change-programs.md",
+          "title": "Roland JP-80×0 Editor – How To Change Programs",
+          "kb_url": "https://auraplugins.com/kb/article/roland-jp-80x0-editor-how-to-change-programs/"
+        },
+        {
+          "order": 40,
+          "file": "40-how-to-change-banks.md",
+          "title": "Roland JP-80×0 Editor – How To Change Banks",
+          "kb_url": "https://auraplugins.com/kb/article/roland-jp-80x0-editor-how-to-change-banks/"
+        },
+        {
+          "order": 41,
+          "file": "41-how-to-change-layers.md",
+          "title": "Roland JP-80×0 Editor – How To Change Layers",
+          "kb_url": "https://auraplugins.com/kb/article/roland-jp-80x0-editor-how-to-change-layers/"
+        },
+        {
+          "order": 42,
+          "file": "42-how-to-view-patch-name.md",
+          "title": "Roland JP-80×0 Editor – How To View Patch Name",
+          "kb_url": "https://auraplugins.com/kb/article/roland-jp-80x0-editor-how-to-view-patch-name/"
+        },
+        {
+          "order": 43,
+          "file": "43-how-to-view-performance-name.md",
+          "title": "Roland JP-80×0 Editor – How To View Performance Name",
+          "kb_url": "https://auraplugins.com/kb/article/roland-jp-80x0-editor-how-to-view-performance-name/"
+        },
+        {
+          "order": 44,
+          "file": "44-how-total-recall-works.md",
+          "title": "Roland JP-80×0 Editor – How Total Recall Works",
+          "kb_url": "https://auraplugins.com/kb/article/roland-jp-80x0-editor-how-total-recall-works/"
+        }
+      ]
     },
     {
-      "order": 3,
-      "file": "03-basic-functions.md",
-      "title": "Basic Functions"
+      "title": "Utilities Menu",
+      "pages": [
+        {
+          "order": 45,
+          "file": "45-utilities-menu.md",
+          "title": "Roland JP-80×0 Editor – Utilities Menu",
+          "kb_url": "https://auraplugins.com/kb/article/roland-jp-80x0-editor-utilities-menu/"
+        },
+        {
+          "order": 46,
+          "file": "46-initialize-active-layer.md",
+          "title": "Roland JP-80×0 Editor – Initialize Active Layer",
+          "kb_url": "https://auraplugins.com/kb/article/roland-jp-80x0-editor-initialize-active-layer/"
+        },
+        {
+          "order": 47,
+          "file": "47-initialize-active-performance.md",
+          "title": "Roland JP-80×0 Editor – Initialize Active Performance",
+          "kb_url": "https://auraplugins.com/kb/article/roland-jp-80x0-editor-initialize-active-performance/"
+        },
+        {
+          "order": 48,
+          "file": "48-initialize-arrangement.md",
+          "title": "Roland JP-80×0 Editor – Initialize Arrangement",
+          "kb_url": "https://auraplugins.com/kb/article/roland-jp-80x0-editor-initialize-arrangement/"
+        },
+        {
+          "order": 49,
+          "file": "49-copy-layer-data.md",
+          "title": "Roland JP-80×0 Editor – Copy Layer Data",
+          "kb_url": "https://auraplugins.com/kb/article/roland-jp-80x0-editor-copy-layer-data/"
+        },
+        {
+          "order": 50,
+          "file": "50-paste-layer-data.md",
+          "title": "Roland JP-80×0 Editor – Paste Layer Data",
+          "kb_url": "https://auraplugins.com/kb/article/roland-jp-80x0-editor-paste-layer-data/"
+        },
+        {
+          "order": 51,
+          "file": "51-save-and-load-midi-cc-maps.md",
+          "title": "Roland JP-80×0 Editor – Save and Load MIDI CC Maps",
+          "kb_url": "https://auraplugins.com/kb/article/roland-jp-80x0-editor-save-and-load-midi-cc-maps/"
+        },
+        {
+          "order": 52,
+          "file": "52-utilities-editor-preferences.md",
+          "title": "Roland JP-80×0 Editor – Utilities: Editor Preferences",
+          "kb_url": "https://auraplugins.com/kb/article/roland-jp-80x0-editor-utilities-editor-preferences/"
+        },
+        {
+          "order": 53,
+          "file": "53-utilities-user-interface.md",
+          "title": "Roland JP-80×0 Editor – Utilities: User Interface",
+          "kb_url": "https://auraplugins.com/kb/article/roland-jp-80x0-editor-utilities-user-interface/"
+        },
+        {
+          "order": 54,
+          "file": "54-utilities-librarian-preferences.md",
+          "title": "Roland JP-80×0 Editor – Utilities: Librarian Preferences",
+          "kb_url": "https://auraplugins.com/kb/article/roland-jp-80x0-editor-utilities-librarian-preferences/"
+        },
+        {
+          "order": 55,
+          "file": "55-utilities-randomizer-preferences.md",
+          "title": "Roland JP-80×0 Editor – Utilities: Randomizer Preferences",
+          "kb_url": "https://auraplugins.com/kb/article/roland-jp-80x0-editor-utilities-randomizer-preferences/"
+        },
+        {
+          "order": 56,
+          "file": "56-utilities-midi-preferences.md",
+          "title": "Roland JP-80×0 Editor – Utilities: MIDI Preferences",
+          "kb_url": "https://auraplugins.com/kb/article/roland-jp-80x0-editor-utilities-midi-preferences/"
+        },
+        {
+          "order": 57,
+          "file": "57-version-status.md",
+          "title": "Roland JP-80×0 Editor – Version Status",
+          "kb_url": "https://auraplugins.com/kb/article/roland-jp-80x0-editor-version-status/"
+        }
+      ]
     },
     {
-      "order": 4,
-      "file": "04-utilities-menu.md",
-      "title": "Utilities Menu"
+      "title": "Patch Librarian",
+      "pages": [
+        {
+          "order": 58,
+          "file": "58-patch-librarian.md",
+          "title": "Roland JP-80×0 Editor – Patch Librarian",
+          "kb_url": "https://auraplugins.com/kb/article/roland-jp-80x0-editor-patch-librarian/"
+        },
+        {
+          "order": 59,
+          "file": "59-librarian-data-types.md",
+          "title": "Roland JP-80×0 Editor – Librarian Data Types",
+          "kb_url": "https://auraplugins.com/kb/article/roland-jp-80x0-editor-librarian-data-types/"
+        },
+        {
+          "order": 60,
+          "file": "60-librarian-data-views.md",
+          "title": "Roland JP-80×0 Editor – Librarian Data Views",
+          "kb_url": "https://auraplugins.com/kb/article/roland-jp-80x0-editor-librarian-data-views/"
+        },
+        {
+          "order": 61,
+          "file": "61-librarian-drag-and-drop.md",
+          "title": "Roland JP-80×0 Editor – Librarian Drag and Drop",
+          "kb_url": "https://auraplugins.com/kb/article/roland-jp-80x0-editor-librarian-drag-and-drop/"
+        },
+        {
+          "order": 62,
+          "file": "62-sending-data-to-hardware.md",
+          "title": "Roland JP-80×0 Editor – Sending Data To Hardware",
+          "kb_url": "https://auraplugins.com/kb/article/roland-jp-80x0-editor-sending-data-to-hardware/"
+        },
+        {
+          "order": 63,
+          "file": "63-browsing-banks.md",
+          "title": "Roland JP-80×0 Editor – Browsing Banks",
+          "kb_url": "https://auraplugins.com/kb/article/roland-jp-80x0-editor-browsing-banks/"
+        },
+        {
+          "order": 64,
+          "file": "64-search-filter.md",
+          "title": "Roland JP-80×0 Editor – Search Filter",
+          "kb_url": "https://auraplugins.com/kb/article/roland-jp-80x0-editor-search-filter/"
+        },
+        {
+          "order": 65,
+          "file": "65-quick-edit-view.md",
+          "title": "Roland JP-80×0 Editor – Quick Edit View",
+          "kb_url": "https://auraplugins.com/kb/article/roland-jp-80x0-editor-quick-edit-view/"
+        },
+        {
+          "order": 66,
+          "file": "66-save-data-to-slot.md",
+          "title": "Roland JP-80×0 Editor – Save Data To Slot",
+          "kb_url": "https://auraplugins.com/kb/article/roland-jp-80x0-editor-save-data-to-slot/"
+        }
+      ]
     },
     {
-      "order": 5,
-      "file": "05-patch-librarian.md",
-      "title": "Patch Librarian"
+      "title": "Librarian Edit Menus",
+      "pages": [
+        {
+          "order": 67,
+          "file": "67-librarian-edit-menus.md",
+          "title": "Roland JP-80×0 Editor – Librarian Edit Menus",
+          "kb_url": "https://auraplugins.com/kb/article/roland-jp-80x0-editor-librarian-edit-menus/"
+        },
+        {
+          "order": 68,
+          "file": "68-request-patch-data-from-hardware.md",
+          "title": "Roland JP-80×0 Editor – Request Patch Data from Hardware",
+          "kb_url": "https://auraplugins.com/kb/article/roland-jp-80x0-editor-request-patch-data-from-hardware/"
+        },
+        {
+          "order": 69,
+          "file": "69-store-patch-data-to-hardware.md",
+          "title": "Roland JP-80×0 Editor – Store Patch Data to Hardware",
+          "kb_url": "https://auraplugins.com/kb/article/roland-jp-80x0-editor-store-patch-data-to-hardware/"
+        },
+        {
+          "order": 70,
+          "file": "70-request-performance-data-from-hardware.md",
+          "title": "Roland JP-80×0 Editor – Request Performance Data from Hardware",
+          "kb_url": "https://auraplugins.com/kb/article/roland-jp-80x0-editor-request-performance-data-from-hardware/"
+        },
+        {
+          "order": 71,
+          "file": "71-store-performance-data-to-hardware.md",
+          "title": "Roland JP-80×0 Editor – Store Performance Data to Hardware",
+          "kb_url": "https://auraplugins.com/kb/article/roland-jp-80x0-editor-store-performance-data-to-hardware/"
+        },
+        {
+          "order": 72,
+          "file": "72-sync-current-data-from-hw.md",
+          "title": "Roland JP-80×0 Editor – Sync Current Data from HW",
+          "kb_url": "https://auraplugins.com/kb/article/roland-jp-80x0-editor-sync-current-data-from-hw/"
+        },
+        {
+          "order": 73,
+          "file": "73-push-current-data-to-hw.md",
+          "title": "Roland JP-80×0 Editor – Push Current Data to HW",
+          "kb_url": "https://auraplugins.com/kb/article/roland-jp-80x0-editor-push-current-data-to-hw/"
+        },
+        {
+          "order": 74,
+          "file": "74-saving-banks.md",
+          "title": "Roland JP-80×0 Editor – Saving Banks",
+          "kb_url": "https://auraplugins.com/kb/article/roland-jp-80x0-editor-saving-banks/"
+        },
+        {
+          "order": 75,
+          "file": "75-importing-banks.md",
+          "title": "Roland JP-80×0 Editor – Importing Banks",
+          "kb_url": "https://auraplugins.com/kb/article/roland-jp-80x0-editor-importing-banks/"
+        },
+        {
+          "order": 76,
+          "file": "76-refresh-folders.md",
+          "title": "Roland JP-80×0 Editor – Refresh Folders",
+          "kb_url": "https://auraplugins.com/kb/article/roland-jp-80x0-editor-refresh-folders/"
+        },
+        {
+          "order": 77,
+          "file": "77-other-helpful-things.md",
+          "title": "Roland JP-80×0 Editor – Other Helpful Things",
+          "kb_url": "https://auraplugins.com/kb/article/roland-jp-80x0-editor-other-helpful-things/"
+        },
+        {
+          "order": 78,
+          "file": "78-rename-librarian-entities.md",
+          "title": "Roland JP-80×0 Editor – Rename Librarian Entities",
+          "kb_url": "https://auraplugins.com/kb/article/roland-jp-80x0-editor-rename-librarian-entities/"
+        }
+      ]
     },
     {
-      "order": 6,
-      "file": "06-librarian-edit-menus.md",
-      "title": "Librarian Edit Menus"
-    },
-    {
-      "order": 7,
-      "file": "07-troubleshooting.md",
-      "title": "Troubleshooting"
+      "title": "Troubleshooting",
+      "pages": [
+        {
+          "order": 79,
+          "file": "79-troubleshooting.md",
+          "title": "Roland JP-80×0 Editor – Troubleshooting",
+          "kb_url": "https://auraplugins.com/kb/article/roland-jp-80x0-editor-troubleshooting/"
+        }
+      ]
     }
   ]
 }
