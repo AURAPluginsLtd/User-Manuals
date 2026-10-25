@@ -51,4 +51,4 @@ check and make sure that *AURA Plugins Virus TI USB Midi.plugin* is **installed*
 
 Reboot your computer. Power up your Virus TI and wait until it is booted. Plug in the USB cable. Virus TI display will say “Audio clock changed” and “USB” text will appear in the top right corner.
 
-**NOTE**: Read our Access Virus User Manual article about USB & MIDI connections here: https://auraplugins.com/kb/article/access-virus-editor-prepare-your-hardware/
+**NOTE**: Read our Access Virus User Manual article about USB & MIDI connections here: [../user-manual/06-prepare-your-hardware.md](../user-manual/06-prepare-your-hardware.md)
