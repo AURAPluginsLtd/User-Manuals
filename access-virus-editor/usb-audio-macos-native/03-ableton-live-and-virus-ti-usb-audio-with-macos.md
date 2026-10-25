@@ -135,4 +135,4 @@ For those who don’t like to read, here is a video how we setup Access Virus TI
 
 [Access Virus TI with Apple Silicon MAC and USB](https://www.youtube.com/watch?v=WF4qOYuwH5c)
 
-[Return](https://auraplugins.com/kb/article/access-virus-editor-virus-ti-usb-audio-connection/) to Virus TI USB Audio connection article
+[Return](../user-manual/09-virus-ti-usb-audio-connection.md) to Virus TI USB Audio connection article

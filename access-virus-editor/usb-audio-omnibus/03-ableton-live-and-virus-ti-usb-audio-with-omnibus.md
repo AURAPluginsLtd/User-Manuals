@@ -130,4 +130,4 @@ Checkout our Access Virus Editor and spread the word – Its been a long road.
 Audiomovers OMNIBUS: Amazing tool for making insane routings inside your macOS & PC.  
 Learn more about Omnibus: https://audiomovers.com/products/omnibus
 
-[Return](https://auraplugins.com/kb/article/access-virus-editor-virus-ti-usb-audio-connection/) to Virus TI USB Audio connection article
+[Return](../user-manual/09-virus-ti-usb-audio-connection.md) to Virus TI USB Audio connection article
