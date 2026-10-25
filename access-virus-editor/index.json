@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "product": "access-virus-editor",
+  "title": "Access Virus Editor",
+  "documents": [
+    {
+      "id": "usb-audio-inject",
+      "title": "Access Virus TI USB Audio with Inject (macOS & Windows)",
+      "path": "usb-audio-inject",
+      "kb_url": "https://auraplugins.com/kb/user-guide/access-virus-ti-usb-audio-with-inject/"
+    },
+    {
+      "id": "usb-audio-macos-native",
+      "title": "Access Virus TI USB Audio with macOS - Natively",
+      "path": "usb-audio-macos-native",
+      "kb_url": "https://auraplugins.com/kb/user-guide/access-virus-ti-usb-audio-with-macos-natively/"
+    },
+    {
+      "id": "usb-audio-omnibus",
+      "title": "Access Virus TI USB Audio with Omnibus (macOS & Windows)",
+      "path": "usb-audio-omnibus",
+      "kb_url": "https://auraplugins.com/kb/user-guide/access-virus-ti-usb-audio-with-omnibus/"
+    },
+    {
+      "id": "user-manual",
+      "title": "Access Virus Editor User Manual",
+      "path": "user-manual",
+      "kb_url": "https://auraplugins.com/kb/user-guide/access-virus-editor-user-manual/"
+    }
+  ]
+}
