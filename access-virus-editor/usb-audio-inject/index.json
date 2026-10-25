@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "product": "access-virus-editor",
+  "title": "Access Virus TI USB Audio with Inject (macOS & Windows)",
+  "sections": [
+    {
+      "title": "Introduction",
+      "pages": [
+        {
+          "order": 0,
+          "file": "00-introduction.md",
+          "title": "Introduction",
+          "kb_url": "https://auraplugins.com/kb/user-guide/access-virus-ti-usb-audio-with-inject/"
+        }
+      ]
+    },
+    {
+      "title": "Ableton Live and Virus TI USB Audio with INJECT",
+      "pages": [
+        {
+          "order": 1,
+          "file": "01-ableton-live-and-virus-ti-usb-audio-with-inject.md",
+          "title": "Ableton Live and Virus TI USB Audio with INJECT",
+          "kb_url": "https://auraplugins.com/kb/user-guide/access-virus-ti-usb-audio-with-inject/#ableton-live-and-virus-ti-usb-audio-with-inject"
+        }
+      ]
+    }
+  ]
+}

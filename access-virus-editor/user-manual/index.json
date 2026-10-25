@@ -1,0 +1,545 @@
+{
+  "version": 1,
+  "product": "access-virus-editor",
+  "title": "Access Virus Editor User Manual",
+  "sections": [
+    {
+      "title": "Introduction",
+      "pages": [
+        {
+          "order": 0,
+          "file": "00-introduction.md",
+          "title": "Introduction",
+          "kb_url": "https://auraplugins.com/kb/user-guide/access-virus-editor-user-manual/"
+        }
+      ]
+    },
+    {
+      "title": "Product Introduction",
+      "pages": [
+        {
+          "order": 1,
+          "file": "01-product-capabilities.md",
+          "title": "Access Virus Editor – Product Capabilities",
+          "kb_url": "https://auraplugins.com/kb/article/access-virus-editor-product-capabilities/"
+        },
+        {
+          "order": 2,
+          "file": "02-requirements.md",
+          "title": "Access Virus Editor – Requirements",
+          "kb_url": "https://auraplugins.com/kb/article/access-virus-editor-requirements/"
+        },
+        {
+          "order": 3,
+          "file": "03-installer-downloads.md",
+          "title": "Access Virus Editor – Installer Downloads",
+          "kb_url": "https://auraplugins.com/kb/article/access-virus-editor-installer-downloads/"
+        },
+        {
+          "order": 4,
+          "file": "04-data-locations.md",
+          "title": "Access Virus Editor – Data Locations",
+          "kb_url": "https://auraplugins.com/kb/article/access-virus-editor-data-locations/"
+        },
+        {
+          "order": 5,
+          "file": "05-demo-limitations.md",
+          "title": "Access Virus Editor – Demo Limitations",
+          "kb_url": "https://auraplugins.com/kb/article/access-virus-editor-demo-limitations/"
+        }
+      ]
+    },
+    {
+      "title": "Make The Connection",
+      "pages": [
+        {
+          "order": 6,
+          "file": "06-prepare-your-hardware.md",
+          "title": "Access Virus Editor – Prepare your Hardware",
+          "kb_url": "https://auraplugins.com/kb/article/access-virus-editor-prepare-your-hardware/"
+        },
+        {
+          "order": 7,
+          "file": "07-configure-virus-a-b-c-rack-and-rack-xl.md",
+          "title": "Access Virus Editor – Configure Virus A, B, C, Rack and Rack XL",
+          "kb_url": "https://auraplugins.com/kb/article/access-virus-editor-configure-virus-a-b-c-rack-and-rack-xl/"
+        },
+        {
+          "order": 8,
+          "file": "08-configure-virus-ti-and-ti-snow-series.md",
+          "title": "Access Virus Editor – Configure Virus TI and TI Snow series",
+          "kb_url": "https://auraplugins.com/kb/article/access-virus-editor-configure-virus-ti-and-ti-snow-series/"
+        },
+        {
+          "order": 9,
+          "file": "09-virus-ti-usb-audio-connection.md",
+          "title": "Access Virus Editor – Virus TI USB Audio connection",
+          "kb_url": "https://auraplugins.com/kb/article/access-virus-editor-virus-ti-usb-audio-connection/"
+        },
+        {
+          "order": 10,
+          "file": "10-macos-midi-configuration.md",
+          "title": "Access Virus Editor – macOS MIDI Configuration",
+          "kb_url": "https://auraplugins.com/kb/article/access-virus-editor-macos-midi-configuration/"
+        },
+        {
+          "order": 11,
+          "file": "11-windows-midi-configuration.md",
+          "title": "Access Virus Editor – Windows MIDI Configuration",
+          "kb_url": "https://auraplugins.com/kb/article/access-virus-editor-windows-midi-configuration/"
+        },
+        {
+          "order": 12,
+          "file": "12-configure-standalone-app.md",
+          "title": "Access Virus Editor – Configure Standalone APP",
+          "kb_url": "https://auraplugins.com/kb/article/access-virus-editor-configure-standalone-app/"
+        },
+        {
+          "order": 13,
+          "file": "13-configure-daw-and-plug-in.md",
+          "title": "Access Virus Editor – Configure DAW and Plug-in",
+          "kb_url": "https://auraplugins.com/kb/article/access-virus-editor-configure-daw-and-plug-in/"
+        },
+        {
+          "order": 14,
+          "file": "14-ableton-live.md",
+          "title": "Access Virus Editor – Ableton Live",
+          "kb_url": "https://auraplugins.com/kb/article/access-virus-editor-ableton-live/"
+        },
+        {
+          "order": 15,
+          "file": "15-creating-tracks.md",
+          "title": "Access Virus Editor – Creating Tracks",
+          "kb_url": "https://auraplugins.com/kb/article/access-virus-editor-creating-tracks/"
+        },
+        {
+          "order": 16,
+          "file": "16-insert-plug-in-in-live.md",
+          "title": "Access Virus Editor – Insert Plug-in in Live",
+          "kb_url": "https://auraplugins.com/kb/article/access-virus-editor-insert-plug-in-in-live/"
+        },
+        {
+          "order": 17,
+          "file": "17-automation-in-live.md",
+          "title": "Access Virus Editor – Automation in Live",
+          "kb_url": "https://auraplugins.com/kb/article/access-virus-editor-automation-in-live/"
+        },
+        {
+          "order": 18,
+          "file": "18-sync-data-from-hw.md",
+          "title": "Access Virus Editor – Sync Data From HW",
+          "kb_url": "https://auraplugins.com/kb/article/access-virus-editor-sync-data-from-hw/"
+        }
+      ]
+    },
+    {
+      "title": "Basic Functions",
+      "pages": [
+        {
+          "order": 19,
+          "file": "19-functions.md",
+          "title": "Access Virus Editor – Functions",
+          "kb_url": "https://auraplugins.com/kb/article/access-virus-editor-functions/"
+        },
+        {
+          "order": 20,
+          "file": "20-model-comparison-chart.md",
+          "title": "Access Virus Editor – Model Comparison Chart",
+          "kb_url": "https://auraplugins.com/kb/article/access-virus-editor-model-comparison-chart/"
+        },
+        {
+          "order": 21,
+          "file": "21-how-to-resize-user-interface.md",
+          "title": "Access Virus Editor – How To Resize User Interface",
+          "kb_url": "https://auraplugins.com/kb/article/access-virus-editor-how-to-resize-user-interface/"
+        },
+        {
+          "order": 22,
+          "file": "22-how-to-check-license-status.md",
+          "title": "Access Virus Editor – How To Check License Status",
+          "kb_url": "https://auraplugins.com/kb/article/access-virus-editor-how-to-check-license-status/"
+        },
+        {
+          "order": 23,
+          "file": "23-how-to-register-our-editor.md",
+          "title": "Access Virus Editor – How To Register our Editor",
+          "kb_url": "https://auraplugins.com/kb/article/access-virus-editor-how-to-register-our-editor/"
+        },
+        {
+          "order": 24,
+          "file": "24-how-to-set-midi-input-and-midi-output-ports.md",
+          "title": "Access Virus Editor – How To Set MIDI Input and MIDI Output ports",
+          "kb_url": "https://auraplugins.com/kb/article/access-virus-editor-how-to-set-midi-input-and-midi-output-ports/"
+        },
+        {
+          "order": 25,
+          "file": "25-how-to-reset-stuck-notes-midi-panic.md",
+          "title": "Access Virus Editor – How To Reset Stuck Notes (MIDI Panic)",
+          "kb_url": "https://auraplugins.com/kb/article/access-virus-editor-how-to-reset-stuck-notes-midi-panic/"
+        },
+        {
+          "order": 26,
+          "file": "26-how-to-adjust-advanced-midi-settings.md",
+          "title": "Access Virus Editor – How To Adjust Advanced MIDI Settings",
+          "kb_url": "https://auraplugins.com/kb/article/access-virus-editor-how-to-adjust-advanced-midi-settings/"
+        },
+        {
+          "order": 27,
+          "file": "27-how-to-use-midi-learn.md",
+          "title": "Access Virus Editor – How To Use MIDI Learn",
+          "kb_url": "https://auraplugins.com/kb/article/access-virus-editor-how-to-use-midi-learn/"
+        },
+        {
+          "order": 28,
+          "file": "28-how-to-save-and-load-ui-data.md",
+          "title": "Access Virus Editor – How To Save and Load UI Data",
+          "kb_url": "https://auraplugins.com/kb/article/access-virus-editor-how-to-save-and-load-ui-data/"
+        },
+        {
+          "order": 29,
+          "file": "29-how-to-autosave-librarian-edits.md",
+          "title": "Access Virus Editor – How To AutoSave Librarian Edits",
+          "kb_url": "https://auraplugins.com/kb/article/access-virus-editor-how-to-autosave-librarian-edits/"
+        },
+        {
+          "order": 30,
+          "file": "30-how-to-use-show-bubble-function.md",
+          "title": "Access Virus Editor – How To Use Show Bubble Function",
+          "kb_url": "https://auraplugins.com/kb/article/access-virus-editor-how-to-use-show-bubble-function/"
+        },
+        {
+          "order": 31,
+          "file": "31-how-to-disable-editor-leds.md",
+          "title": "Access Virus Editor – How To Disable Editor LEDs",
+          "kb_url": "https://auraplugins.com/kb/article/access-virus-editor-how-to-disable-editor-leds/"
+        },
+        {
+          "order": 32,
+          "file": "32-how-to-display-parameter-tooltips.md",
+          "title": "Access Virus Editor – How To Display Parameter Tooltips",
+          "kb_url": "https://auraplugins.com/kb/article/access-virus-editor-how-to-display-parameter-tooltips/"
+        },
+        {
+          "order": 33,
+          "file": "33-how-to-use-randomizer.md",
+          "title": "Access Virus Editor – How To Use Randomizer",
+          "kb_url": "https://auraplugins.com/kb/article/access-virus-editor-how-to-use-randomizer/"
+        },
+        {
+          "order": 34,
+          "file": "34-how-to-show-keyboard-part-focus.md",
+          "title": "Access Virus Editor – How To Show Keyboard (Part Focus)",
+          "kb_url": "https://auraplugins.com/kb/article/access-virus-editor-how-to-show-keyboard-part-focus/"
+        },
+        {
+          "order": 35,
+          "file": "35-how-to-show-quick-help.md",
+          "title": "Access Virus Editor – How To Show Quick Help",
+          "kb_url": "https://auraplugins.com/kb/article/access-virus-editor-how-to-show-quick-help/"
+        },
+        {
+          "order": 36,
+          "file": "36-how-to-sync-data-from-hardware.md",
+          "title": "Access Virus Editor – How To Sync Data From Hardware",
+          "kb_url": "https://auraplugins.com/kb/article/access-virus-editor-how-to-sync-data-from-hardware/"
+        },
+        {
+          "order": 37,
+          "file": "37-how-to-push-data-to-hardware.md",
+          "title": "Access Virus Editor – How To Push Data To Hardware",
+          "kb_url": "https://auraplugins.com/kb/article/access-virus-editor-how-to-push-data-to-hardware/"
+        },
+        {
+          "order": 38,
+          "file": "38-how-to-abort-processes.md",
+          "title": "Access Virus Editor – How To Abort Processes",
+          "kb_url": "https://auraplugins.com/kb/article/access-virus-editor-how-to-abort-processes/"
+        },
+        {
+          "order": 39,
+          "file": "39-how-to-use-section-locks.md",
+          "title": "Access Virus Editor – How To Use Section Locks",
+          "kb_url": "https://auraplugins.com/kb/article/access-virus-editor-how-to-use-section-locks/"
+        },
+        {
+          "order": 40,
+          "file": "40-how-to-use-section-menus.md",
+          "title": "Access Virus Editor – How To Use Section Menus",
+          "kb_url": "https://auraplugins.com/kb/article/access-virus-editor-how-to-use-section-menus/"
+        },
+        {
+          "order": 41,
+          "file": "41-how-to-change-programs.md",
+          "title": "Access Virus Editor – How To Change Programs",
+          "kb_url": "https://auraplugins.com/kb/article/access-virus-editor-how-to-change-programs/"
+        },
+        {
+          "order": 42,
+          "file": "42-how-to-change-banks.md",
+          "title": "Access Virus Editor – How To Change Banks",
+          "kb_url": "https://auraplugins.com/kb/article/access-virus-editor-how-to-change-banks/"
+        },
+        {
+          "order": 43,
+          "file": "43-how-to-change-parts.md",
+          "title": "Access Virus Editor – How To Change Parts",
+          "kb_url": "https://auraplugins.com/kb/article/access-virus-editor-how-to-change-parts/"
+        },
+        {
+          "order": 44,
+          "file": "44-how-to-view-patch-name.md",
+          "title": "Access Virus Editor – How To View Patch Name",
+          "kb_url": "https://auraplugins.com/kb/article/access-virus-editor-how-to-view-patch-name/"
+        },
+        {
+          "order": 45,
+          "file": "45-how-to-view-multi-name.md",
+          "title": "Access Virus Editor – How To View Multi Name",
+          "kb_url": "https://auraplugins.com/kb/article/access-virus-editor-how-to-view-multi-name/"
+        },
+        {
+          "order": 46,
+          "file": "46-how-total-recall-works.md",
+          "title": "Access Virus Editor – How Total Recall Works",
+          "kb_url": "https://auraplugins.com/kb/article/access-virus-editor-how-total-recall-works/"
+        }
+      ]
+    },
+    {
+      "title": "Utilities Menu",
+      "pages": [
+        {
+          "order": 47,
+          "file": "47-utilities-menu.md",
+          "title": "Access Virus Editor – Utilities Menu",
+          "kb_url": "https://auraplugins.com/kb/article/access-virus-editor-utilities-menu/"
+        },
+        {
+          "order": 48,
+          "file": "48-initialize-active-part.md",
+          "title": "Access Virus Editor – Initialize Active Part",
+          "kb_url": "https://auraplugins.com/kb/article/access-virus-editor-initialize-active-part/"
+        },
+        {
+          "order": 49,
+          "file": "49-initialize-active-multi.md",
+          "title": "Access Virus Editor – Initialize Active Multi",
+          "kb_url": "https://auraplugins.com/kb/article/access-virus-editor-initialize-active-multi/"
+        },
+        {
+          "order": 50,
+          "file": "50-initialize-arrangement.md",
+          "title": "Access Virus Editor – Initialize Arrangement",
+          "kb_url": "https://auraplugins.com/kb/article/access-virus-editor-initialize-arrangement/"
+        },
+        {
+          "order": 51,
+          "file": "51-copy-part-data.md",
+          "title": "Access Virus Editor – Copy Part Data",
+          "kb_url": "https://auraplugins.com/kb/article/access-virus-editor-copy-part-data/"
+        },
+        {
+          "order": 52,
+          "file": "52-paste-part-data.md",
+          "title": "Access Virus Editor – Paste Layer Data",
+          "kb_url": "https://auraplugins.com/kb/article/access-virus-editor-paste-part-data/"
+        },
+        {
+          "order": 53,
+          "file": "53-save-and-load-midi-cc-maps.md",
+          "title": "Access Virus Editor – Save and Load MIDI CC Maps",
+          "kb_url": "https://auraplugins.com/kb/article/access-virus-editor-save-and-load-midi-cc-maps/"
+        },
+        {
+          "order": 54,
+          "file": "54-utilities-editor-preferences.md",
+          "title": "Access Virus Editor – Utilities: Editor Preferences",
+          "kb_url": "https://auraplugins.com/kb/article/access-virus-editor-utilities-editor-preferences/"
+        },
+        {
+          "order": 55,
+          "file": "55-utilities-user-interface.md",
+          "title": "Access Virus Editor – Utilities: User Interface",
+          "kb_url": "https://auraplugins.com/kb/article/access-virus-editor-utilities-user-interface/"
+        },
+        {
+          "order": 56,
+          "file": "56-utilities-librarian-preferences.md",
+          "title": "Access Virus Editor – Utilities: Librarian Preferences",
+          "kb_url": "https://auraplugins.com/kb/article/access-virus-editor-utilities-librarian-preferences/"
+        },
+        {
+          "order": 57,
+          "file": "57-utilities-randomizer-preferences.md",
+          "title": "Access Virus Editor – Utilities: Randomizer Preferences",
+          "kb_url": "https://auraplugins.com/kb/article/access-virus-editor-utilities-randomizer-preferences/"
+        },
+        {
+          "order": 58,
+          "file": "58-utilities-midi-preferences.md",
+          "title": "Access Virus Editor – Utilities: MIDI Preferences",
+          "kb_url": "https://auraplugins.com/kb/article/access-virus-editor-utilities-midi-preferences/"
+        },
+        {
+          "order": 59,
+          "file": "59-version-status.md",
+          "title": "Access Virus Editor – Version Status",
+          "kb_url": "https://auraplugins.com/kb/article/access-virus-editor-version-status/"
+        }
+      ]
+    },
+    {
+      "title": "Patch Librarian",
+      "pages": [
+        {
+          "order": 60,
+          "file": "60-patch-librarian.md",
+          "title": "Access Virus Editor – Patch Librarian",
+          "kb_url": "https://auraplugins.com/kb/article/access-virus-editor-patch-librarian/"
+        },
+        {
+          "order": 61,
+          "file": "61-librarian-data-types.md",
+          "title": "Access Virus Editor – Librarian Data Types",
+          "kb_url": "https://auraplugins.com/kb/article/access-virus-editor-librarian-data-types/"
+        },
+        {
+          "order": 62,
+          "file": "62-librarian-data-views.md",
+          "title": "Access Virus Editor – Librarian Data Views",
+          "kb_url": "https://auraplugins.com/kb/article/access-virus-editor-librarian-data-views/"
+        },
+        {
+          "order": 63,
+          "file": "63-librarian-drag-and-drop.md",
+          "title": "Access Virus Editor – Librarian Drag and Drop",
+          "kb_url": "https://auraplugins.com/kb/article/access-virus-editor-librarian-drag-and-drop/"
+        },
+        {
+          "order": 64,
+          "file": "64-sending-data-to-hardware.md",
+          "title": "Access Virus Editor – Sending Data To Hardware",
+          "kb_url": "https://auraplugins.com/kb/article/access-virus-editor-sending-data-to-hardware/"
+        },
+        {
+          "order": 65,
+          "file": "65-browsing-banks.md",
+          "title": "Access Virus Editor – Browsing Banks",
+          "kb_url": "https://auraplugins.com/kb/article/access-virus-editor-browsing-banks/"
+        },
+        {
+          "order": 66,
+          "file": "66-search-filter.md",
+          "title": "Access Virus Editor – Search Filter",
+          "kb_url": "https://auraplugins.com/kb/article/access-virus-editor-search-filter/"
+        },
+        {
+          "order": 67,
+          "file": "67-category-filter.md",
+          "title": "Access Virus Editor – Category Filter",
+          "kb_url": "https://auraplugins.com/kb/article/access-virus-editor-category-filter/"
+        },
+        {
+          "order": 68,
+          "file": "68-quick-edit-view.md",
+          "title": "Access Virus Editor – Quick Edit View",
+          "kb_url": "https://auraplugins.com/kb/article/access-virus-editor-quick-edit-view/"
+        },
+        {
+          "order": 69,
+          "file": "69-save-part-to-slot.md",
+          "title": "Access Virus Editor – Save Part To Slot",
+          "kb_url": "https://auraplugins.com/kb/article/access-virus-editor-save-part-to-slot/"
+        }
+      ]
+    },
+    {
+      "title": "Librarian Edit Menus",
+      "pages": [
+        {
+          "order": 70,
+          "file": "70-librarian-edit-menus.md",
+          "title": "Access Virus Editor – Librarian Edit Menus",
+          "kb_url": "https://auraplugins.com/kb/article/access-virus-editor-librarian-edit-menus/"
+        },
+        {
+          "order": 71,
+          "file": "71-request-patch-data-from-hardware.md",
+          "title": "Access Virus Editor – Request Patch Data from Hardware",
+          "kb_url": "https://auraplugins.com/kb/article/access-virus-editor-request-patch-data-from-hardware/"
+        },
+        {
+          "order": 72,
+          "file": "72-store-patch-data-to-hardware.md",
+          "title": "Access Virus Editor – Store Patch Data to Hardware",
+          "kb_url": "https://auraplugins.com/kb/article/access-virus-editor-store-patch-data-to-hardware/"
+        },
+        {
+          "order": 73,
+          "file": "73-request-multi-data-from-hardware.md",
+          "title": "Access Virus Editor – Request Multi Data from Hardware",
+          "kb_url": "https://auraplugins.com/kb/article/access-virus-editor-request-multi-data-from-hardware/"
+        },
+        {
+          "order": 74,
+          "file": "74-store-multi-data-to-hardware.md",
+          "title": "Access Virus Editor – Store Multi Data to Hardware",
+          "kb_url": "https://auraplugins.com/kb/article/access-virus-editor-store-multi-data-to-hardware/"
+        },
+        {
+          "order": 75,
+          "file": "75-sync-current-data-from-hw.md",
+          "title": "Access Virus Editor – Sync Current Data from HW",
+          "kb_url": "https://auraplugins.com/kb/article/access-virus-editor-sync-current-data-from-hw/"
+        },
+        {
+          "order": 76,
+          "file": "76-push-current-data-to-hw.md",
+          "title": "Access Virus Editor – Push Current Data to HW",
+          "kb_url": "https://auraplugins.com/kb/article/access-virus-editor-push-current-data-to-hw/"
+        },
+        {
+          "order": 77,
+          "file": "77-saving-banks.md",
+          "title": "Access Virus Editor – Saving Banks",
+          "kb_url": "https://auraplugins.com/kb/article/access-virus-editor-saving-banks/"
+        },
+        {
+          "order": 78,
+          "file": "78-importing-banks.md",
+          "title": "Access Virus Editor – Importing Banks",
+          "kb_url": "https://auraplugins.com/kb/article/access-virus-editor-importing-banks/"
+        },
+        {
+          "order": 79,
+          "file": "79-refresh-folders.md",
+          "title": "Access Virus Editor – Refresh Folders",
+          "kb_url": "https://auraplugins.com/kb/article/access-virus-editor-refresh-folders/"
+        },
+        {
+          "order": 80,
+          "file": "80-other-helpful-things.md",
+          "title": "Access Virus Editor – Other Helpful Things",
+          "kb_url": "https://auraplugins.com/kb/article/access-virus-editor-other-helpful-things/"
+        },
+        {
+          "order": 81,
+          "file": "81-rename-librarian-entities.md",
+          "title": "Access Virus Editor – Rename Librarian Entities",
+          "kb_url": "https://auraplugins.com/kb/article/access-virus-editor-rename-librarian-entities/"
+        }
+      ]
+    },
+    {
+      "title": "Troubleshooting",
+      "pages": [
+        {
+          "order": 82,
+          "file": "82-troubleshooting.md",
+          "title": "Access Virus Editor – Troubleshooting",
+          "kb_url": "https://auraplugins.com/kb/article/access-virus-editor-troubleshooting/"
+        }
+      ]
+    }
+  ]
+}

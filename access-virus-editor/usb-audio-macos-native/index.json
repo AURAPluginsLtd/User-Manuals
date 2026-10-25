@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "product": "access-virus-editor",
+  "title": "Access Virus TI USB Audio with macOS - Natively",
+  "sections": [
+    {
+      "title": "Introduction",
+      "pages": [
+        {
+          "order": 0,
+          "file": "00-introduction.md",
+          "title": "Introduction",
+          "kb_url": "https://auraplugins.com/kb/user-guide/access-virus-ti-usb-audio-with-macos-natively/"
+        }
+      ]
+    },
+    {
+      "title": "Audio MIDI Setup",
+      "pages": [
+        {
+          "order": 1,
+          "file": "01-audio-midi-setup.md",
+          "title": "Audio MIDI Setup",
+          "kb_url": "https://auraplugins.com/kb/user-guide/access-virus-ti-usb-audio-with-macos-natively/#audio-midi-setup"
+        }
+      ]
+    },
+    {
+      "title": "Caveat with USB connection",
+      "pages": [
+        {
+          "order": 2,
+          "file": "02-caveat-with-usb-connection.md",
+          "title": "Caveat with USB connection",
+          "kb_url": "https://auraplugins.com/kb/user-guide/access-virus-ti-usb-audio-with-macos-natively/#caveat-with-usb-connection"
+        }
+      ]
+    },
+    {
+      "title": "Ableton Live and Virus TI USB Audio with macOS",
+      "pages": [
+        {
+          "order": 3,
+          "file": "03-ableton-live-and-virus-ti-usb-audio-with-macos.md",
+          "title": "Ableton Live and Virus TI USB Audio with macOS",
+          "kb_url": "https://auraplugins.com/kb/user-guide/access-virus-ti-usb-audio-with-macos-natively/#ableton-live-and-virus-ti-usb-audio-with-macos"
+        }
+      ]
+    }
+  ]
+}

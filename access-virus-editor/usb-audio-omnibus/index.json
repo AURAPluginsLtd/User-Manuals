@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "product": "access-virus-editor",
+  "title": "Access Virus TI USB Audio with Omnibus (macOS & Windows)",
+  "sections": [
+    {
+      "title": "Introduction",
+      "pages": [
+        {
+          "order": 0,
+          "file": "00-introduction.md",
+          "title": "Introduction",
+          "kb_url": "https://auraplugins.com/kb/user-guide/access-virus-ti-usb-audio-with-omnibus/"
+        }
+      ]
+    },
+    {
+      "title": "Add New Virtual Device (if needed)",
+      "pages": [
+        {
+          "order": 1,
+          "file": "01-add-new-virtual-device-if-needed.md",
+          "title": "Add New Virtual Device (if needed)",
+          "kb_url": "https://auraplugins.com/kb/user-guide/access-virus-ti-usb-audio-with-omnibus/#add-new-virtual-device-if-needed"
+        }
+      ]
+    },
+    {
+      "title": "Enter the Matrix",
+      "pages": [
+        {
+          "order": 2,
+          "file": "02-enter-the-matrix.md",
+          "title": "Enter the Matrix",
+          "kb_url": "https://auraplugins.com/kb/user-guide/access-virus-ti-usb-audio-with-omnibus/#enter-the-matrix"
+        }
+      ]
+    },
+    {
+      "title": "Ableton Live and Virus TI USB Audio with OMNIBUS",
+      "pages": [
+        {
+          "order": 3,
+          "file": "03-ableton-live-and-virus-ti-usb-audio-with-omnibus.md",
+          "title": "Ableton Live and Virus TI USB Audio with OMNIBUS",
+          "kb_url": "https://auraplugins.com/kb/user-guide/access-virus-ti-usb-audio-with-omnibus/#ableton-live-and-virus-ti-usb-audio-with-omnibus"
+        }
+      ]
+    }
+  ]
+}
