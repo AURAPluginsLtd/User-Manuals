@@ -12,4 +12,4 @@ If you have learned MIDI CC controls from your master controller you can save th
 
 This function loads your custom CC mapping to the Editor and over-rides the default CC assignments.
 
-**NOTE:** Loading custom CC mappings does not over-ride hardware CC messages. ie. Cutoff from hardware is still assigned to #74, while DAW (midi controller) CC is mapped to #12
+> **NOTE:** Loading custom CC mappings does not over-ride hardware CC messages. ie. Cutoff from hardware is still assigned to #74, while DAW (midi controller) CC is mapped to #12

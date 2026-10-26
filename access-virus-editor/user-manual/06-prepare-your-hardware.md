@@ -17,7 +17,7 @@ Connect the MIDI cables from your synthesizer to the MIDI interface and Audio Ja
 
 Power up your Virus. Our editor is designed to work “out of the box” and control all parameters from a single application instance.
 
-**NOTE:** Our Editor is designed to work in MULTISINGLE / SEQUENCER-mode.
+> **NOTE:** Our Editor is designed to work in MULTISINGLE / SEQUENCER-mode.
 
 ## Using Virus TI with and without USB connection
 
@@ -37,7 +37,7 @@ setup guide: https://auraplugins.com/kb/product/access-virus-editor/user-guides/
 
 *Figure: access virus ti with usb connection perspective*
 
-**NOTE:** IF Virus TI is connected to computer with USB cable, then Virus TI MIDI input and output will act as a MIDI port to your DAW. All MIDI data in and out from Virus TI MIDI ports will bypass the Virus TI engine!
+> **NOTE:** IF Virus TI is connected to computer with USB cable, then Virus TI MIDI input and output will act as a MIDI port to your DAW. All MIDI data in and out from Virus TI MIDI ports will bypass the Virus TI engine!
 
 CONNECT VIRUS TI WITHOUT USB
 
@@ -53,4 +53,4 @@ MIDI interface and soundcard are both connected to USB 3 hub and the hub is conn
 
 *Figure: access virus ti without usb connection perspective*
 
-**NOTE:** If you need more audio outputs from the Virus TI, just plug in the USB cable from Virus TI to your USB hub and you’ll gain 3 stereo / 6 mono outputs to your setup. See NOTE above about Virus TI USB & MIDI input / output ports!
+> **NOTE:** If you need more audio outputs from the Virus TI, just plug in the USB cable from Virus TI to your USB hub and you’ll gain 3 stereo / 6 mono outputs to your setup. See NOTE above about Virus TI USB & MIDI input / output ports!

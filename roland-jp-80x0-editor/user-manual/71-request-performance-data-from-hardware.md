@@ -1,6 +1,6 @@
 # Roland JP-80×0 Editor – Request Performance Data from Hardware
 
-**NOTE:** To successfully request the multi data from the hardware, STOP all activities on your DAW so that the SysEx data is received as expected!
+> **NOTE:** To successfully request the multi data from the hardware, STOP all activities on your DAW so that the SysEx data is received as expected!
 
 ## from Temp Buffer to Editor GUI
 
@@ -48,7 +48,7 @@ You can achieve the same result with **right mouse click** at the top of slot 68
 
 *Figure: request performance from slot via right click*
 
-**NOTE:** REQ DATA FROM menu selection defines the Bank Address for hardware requests!
+> **NOTE:** REQ DATA FROM menu selection defines the Bank Address for hardware requests!
 
 ## All Data from USER Bank
 

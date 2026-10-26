@@ -18,7 +18,7 @@ User interface will show your product status in the upper left corner:
 
 You can find instructions for the Editor registration further down the documentation.
 
-**IMPORTANT** : Always keep back-up of the downloaded installer at your own HDD. We are not storing old installers in our servers! If something goes wrong with the update, you have an installer in your personal storage to rescue your project if it really screws something up!
+> **IMPORTANT:** Always keep back-up of the downloaded installer at your own HDD. We are not storing old installers in our servers! If something goes wrong with the update, you have an installer in your personal storage to rescue your project if it really screws something up!
 
 ## Backup your synthesizer memory!
 

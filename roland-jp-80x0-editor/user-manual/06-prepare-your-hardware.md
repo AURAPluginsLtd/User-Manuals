@@ -17,4 +17,4 @@ Connect the MIDI cables from your synthesizer to the MIDI interface and Audio Ja
 
 Power up your JP-8000 / JP-8080. Our editor is designed to work “out of the box” and control all parameters from a single application instance.
 
-**NOTE:** Our Editor is designed to work in Performance-mode. Patch-mode is supported to load individual patches to the upper or lower layer.
+> **NOTE:** Our Editor is designed to work in Performance-mode. Patch-mode is supported to load individual patches to the upper or lower layer.

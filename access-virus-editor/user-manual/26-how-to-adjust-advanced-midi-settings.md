@@ -30,9 +30,9 @@ Allow certain MIDI messages to pass into the Editor processor within the Incomin
 
 *Figure: how to adjust advanced midi settings - details*
 
-**Note #1** : If you disable Control Changes and System Exclusive messages from the Hardware port, the Editor might stop responding to hardware knob movements completely.
+> **NOTE #1:** If you disable Control Changes and System Exclusive messages from the Hardware port, the Editor might stop responding to hardware knob movements completely.
 
-**Note #2** : In Standalone Application use, Remote Keyboard MIDI Input data is handled in the Process DAW messages section.
+> **NOTE #2:** In Standalone Application use, Remote Keyboard MIDI Input data is handled in the Process DAW messages section.
 
 ## Advanced Outgoing MIDI Settings
 
@@ -47,7 +47,7 @@ Send note MIDI data from Plug-in:
 
 *Figure: how to adjust advanced midi settings - midi out*
 
-**NOTE:** If the Editor MIDI note handling is out of time, we would advise NOT to adjust these settings at all. Check your DAW user guide to figure out how to delay or advance your MIDI note timing / delay compensation.
+> **NOTE:** If the Editor MIDI note handling is out of time, we would advise NOT to adjust these settings at all. Check your DAW user guide to figure out how to delay or advance your MIDI note timing / delay compensation.
 
 ## MIDI Clock (experimental)
 
@@ -61,4 +61,4 @@ Check **Send Continuous MIDI Clock information [2]** if you want to sync MIDI cl
 
 *Figure: how to adjust advanced midi settings - experimental clock*
 
-**NOTE:** The clock with the Editor might be inaccurate, so if you have another solution to sync clock information from your DAW to the hardware, use that instead.
+> **NOTE:** The clock with the Editor might be inaccurate, so if you have another solution to sync clock information from your DAW to the hardware, use that instead.

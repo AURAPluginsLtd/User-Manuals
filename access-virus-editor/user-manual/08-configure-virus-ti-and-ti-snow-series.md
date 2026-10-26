@@ -2,7 +2,7 @@
 
 After Virus is powered up, enter System settings and apply the following settings.
 
-**NOTE:** Menu and Button examples from Virus TI Desktop user manual.
+> **NOTE:** Menu and Button examples from Virus TI Desktop user manual.
 
 ![access virus ti config 1](images/access-virus-ti-config-1.jpg)
 

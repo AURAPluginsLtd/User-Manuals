@@ -22,7 +22,7 @@ You can also see where the data path is as explained in the Data Locations artic
 
 *Figure: open data folder*
 
-**NOTE:** Performance and Single Patch files are both located in the PATCHES folder.
+> **NOTE:** Performance and Single Patch files are both located in the PATCHES folder.
 
 ## Check for Updates
 
@@ -30,4 +30,4 @@ This will check our online repository for version status. No personal data is se
 
 Usually when we have an update available, it addresses any issues reported to us via the Bug Report form (https://auraplugins.com/my-account/bug-report/) and/or Discord (https://discord.gg/TeG7ukYcVW) reports.
 
-**NOTE:** Internet connection is required to handle this function!
+> **NOTE:** Internet connection is required to handle this function!

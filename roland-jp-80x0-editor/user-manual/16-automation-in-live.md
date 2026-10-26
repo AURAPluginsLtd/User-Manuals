@@ -10,7 +10,7 @@ You can automate almost every parameter of your JP with our Editor in DAW withou
 
 *Figure: Unfolding Device Parameters in Live*
 
-**NOTE:** Parameters sent as **MIDI CC** can be automated smoothly. Automating **SysEx**-based parameters may make the Editor user interface or your DAW sluggish. We are looking into the cause. If you need to automate a SysEx parameter, automate a MIDI controller that the JP-8080 accepts for Control Up or Control Down instead (Aftertouch, Breath or a Control Change), and set that parameter’s range with Control Assign (MORPHING [CONTROL ASSIGN]). See your JP-8080 Owner’s Manual for the Control Assign steps.
+> **NOTE:** Parameters sent as **MIDI CC** can be automated smoothly. Automating **SysEx**-based parameters may make the Editor user interface or your DAW sluggish. We are looking into the cause. If you need to automate a SysEx parameter, automate a MIDI controller that the JP-8080 accepts for Control Up or Control Down instead (Aftertouch, Breath or a Control Change), and set that parameter’s range with Control Assign (MORPHING [CONTROL ASSIGN]). See your JP-8080 Owner’s Manual for the Control Assign steps.
 
 Toggle **Configure [1]** from Device Parameters view to enable parameter learning.
 

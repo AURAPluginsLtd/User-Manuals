@@ -21,6 +21,6 @@ Since macOS Catalina (10.15) came out, Apple did change up their OS quite a bit.
 
 Enough of talking technical stuff, let’s connect the Virus TI to your DAW!
 
-**NOTE:** These articles are mainly written to work with our Access Virus Editor!
+> **NOTE:** These articles are mainly written to work with our Access Virus Editor!
 
 Install our Access Virus Editor from the [downloads](https://auraplugins.com/downloads/access-virus-editor/) page. The demo version works too, but you are missing a lot of features with it ($69.95 is a very small fee for a fully working editor)!

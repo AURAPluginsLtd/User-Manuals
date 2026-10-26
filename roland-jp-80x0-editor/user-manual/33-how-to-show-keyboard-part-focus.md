@@ -23,4 +23,4 @@ When **SHOW KEYBOARD [1]** is toggled on, the Editor will focus all incoming MID
 
 *Figure: JP-80x0 Editor User Manual - Part Focus*
 
-**NOTE:** When DAW playback is on, MIDI data is transmitted normally per layer.
+> **NOTE:** When DAW playback is on, MIDI data is transmitted normally per layer.

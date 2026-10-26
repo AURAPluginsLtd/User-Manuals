@@ -6,4 +6,4 @@
 
 *Figure: JP-80x0 Editor User Manual - Patch Name Display*
 
-**NOTE:** Renaming a single patch from the “Control Display” does not change the name in the librarian. If you want to rename librarian items, check Related Docs below or use search function.
+> **NOTE:** Renaming a single patch from the “Control Display” does not change the name in the librarian. If you want to rename librarian items, check Related Docs below or use search function.

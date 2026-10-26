@@ -1,6 +1,6 @@
 # Access Virus Editor – Troubleshooting
 
-**NOTE:** FAQs are listed first, then we have some random Troubleshooting scenarios listed below!
+> **NOTE:** FAQs are listed first, then we have some random Troubleshooting scenarios listed below!
 
 ## General FAQs
 

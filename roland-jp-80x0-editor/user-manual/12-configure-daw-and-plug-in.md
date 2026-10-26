@@ -4,7 +4,7 @@ In the guide series below, we are going to use **Ableton Live in Windows** to de
 
 If you are not using Ableton Live, check the configuration guide for your system below.
 
-**ATTENTION** : We expect you’ve done Hardware and MIDI port configuration steps from the previous section – They are mandatory to understand what is going on in the guides below!
+> **ATTENTION:** We expect you’ve done Hardware and MIDI port configuration steps from the previous section – They are mandatory to understand what is going on in the guides below!
 
 ```
 Config Guide           | Availability

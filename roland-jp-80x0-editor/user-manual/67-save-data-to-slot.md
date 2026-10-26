@@ -10,4 +10,4 @@ You can change the slot to your liking as long as it is in the left (BUFFER) vie
 
 *Figure: librarian save data to slot*
 
-**NOTE:** The user has to **overwrite** or choose a custom bank name via **Bank Edit -> Save As..** function in order to save bank changes. OR click the DISCARD button to cancel all the changes made.
+> **NOTE:** The user has to **overwrite** or choose a custom bank name via **Bank Edit -> Save As..** function in order to save bank changes. OR click the DISCARD button to cancel all the changes made.

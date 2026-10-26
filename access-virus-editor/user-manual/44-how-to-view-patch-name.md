@@ -6,4 +6,4 @@
 
 *Figure: how to view patch name*
 
-**NOTE:** Renaming a single patch from the “Quick Mixer” view does not change the name in the librarian. If you want to rename librarian items, check Related Docs below or use search function.
+> **NOTE:** Renaming a single patch from the “Quick Mixer” view does not change the name in the librarian. If you want to rename librarian items, check Related Docs below or use search function.

@@ -12,4 +12,4 @@ Another great feature we added is the ability to force data being sent to your s
 
 *Figure: JP-80x0 Editor User Manual - Push Data to JP*
 
-**NOTE:** Data sending takes time depending which model you have in question. Let the Editor do its thing and don’t tweak any parameters during this time. It could potentially disturb the SysEx data sending process and you need to start again.
+> **NOTE:** Data sending takes time depending which model you have in question. Let the Editor do its thing and don’t tweak any parameters during this time. It could potentially disturb the SysEx data sending process and you need to start again.

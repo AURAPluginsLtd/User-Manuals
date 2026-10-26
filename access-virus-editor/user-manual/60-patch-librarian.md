@@ -12,12 +12,12 @@ We have made the librarian look and feel the same across all our products. i.e.,
 
 But in general, you can request data from hardware to the librarian, store data from librarian to hardware, store banks to HDD as you make edits etc.
 
-**NOTE:** Librarian view is **not** synchronized with hardware memory. Librarian view displays **SINGLE** or **MULTI** data stored in your HDD ( [data folder]/Patches/ -folder ).
+> **NOTE:** Librarian view is **not** synchronized with hardware memory. Librarian view displays **SINGLE** or **MULTI** data stored in your HDD ( [data folder]/Patches/ -folder ).
 
-**NOTE:** Keep your banks organized. If you have too many levels in your folder tree, the librarian is not able to solve it. Details below.
-
-- [data folder]/Patches/sub folder 1/sub folder 2/my bank.mid – **this is OK**.
-- [data folder]/Patches/sub folder 1/sub folder 2/sub folder 3/my bank.mid – **this is NOT OK**.
+> **NOTE:** Keep your banks organized. If you have too many levels in your folder tree, the librarian is not able to solve it. Details below.
+>
+> - [data folder]/Patches/sub folder 1/sub folder 2/my bank.mid – **this is OK**.
+> - [data folder]/Patches/sub folder 1/sub folder 2/sub folder 3/my bank.mid – **this is NOT OK**.
 
 There is a lot to cover in this chapter, so it is the perfect time to get some coffee or tea.
 

@@ -1,6 +1,6 @@
 # Roland JP-80×0 Editor – Request Patch Data from Hardware
 
-**NOTE:** To successfully request the patch data from the hardware, STOP all activities on your DAW so that the SysEx data is received as expected!
+> **NOTE:** To successfully request the patch data from the hardware, STOP all activities on your DAW so that the SysEx data is received as expected!
 
 ## from Active Layer to Editor GUI
 
@@ -48,7 +48,7 @@ You can achieve the same result with **right mouse click** at the top of any slo
 
 *Figure: request data from slot right click*
 
-**NOTE:** REQ DATA FROM menu selection defines the Bank Address for hardware requests!
+> **NOTE:** REQ DATA FROM menu selection defines the Bank Address for hardware requests!
 
 ## All Data from USER Bank
 

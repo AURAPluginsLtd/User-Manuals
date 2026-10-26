@@ -39,7 +39,7 @@ Similar to User Interface Program Change – / + buttons, incoming MIDI Program 
 
 Data is either sent to hardware from the Librarian View based on the incoming Program Change value or requested from the hardware to the Editor User Interface based on the same Program Change value.
 
-**NOTE:** When user toggles between LIBRARY CONTROL ON PROG CHANGE states, REQUEST DATA ON PROGRAM CHANGE button gets disabled. Engage the button again if you want to request hardware programs to the Editor User Interface after MIDI Program Change is sent. See image below.
+> **NOTE:** When user toggles between LIBRARY CONTROL ON PROG CHANGE states, REQUEST DATA ON PROGRAM CHANGE button gets disabled. Engage the button again if you want to request hardware programs to the Editor User Interface after MIDI Program Change is sent. See image below.
 
 ![sending data to hardware with midi pc](images/sending-data-to-hardware-with-midi-pc.jpg)
 

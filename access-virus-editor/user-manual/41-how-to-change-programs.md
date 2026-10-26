@@ -53,11 +53,11 @@ If this switch is toggled off, our Editor will only send the program change mess
 
 *Figure: how to change programs while library control on program change is on*
 
-**Note #1** : Patches are sent to the hardware on the currently selected part when the menu is used to change programs.
+> **NOTE #1:** Patches are sent to the hardware on the currently selected part when the menu is used to change programs.
 
-**Note #2** : If the program change message is received from MIDI channel 4 and none of your layers are set to channel 4, no action will be taken.
+> **NOTE #2:** If the program change message is received from MIDI channel 4 and none of your layers are set to channel 4, no action will be taken.
 
-**Note #3** : If the program change message is received from MIDI channel 1 and both layers are set to channel 1, no action will be taken. Change the MIDI channel temporarily to a different channel.
+> **NOTE #3:** If the program change message is received from MIDI channel 1 and both layers are set to channel 1, no action will be taken. Change the MIDI channel temporarily to a different channel.
 
 ## PROGRAM NUMBER DISPLAY / SELECTION MENU (\*3)
 

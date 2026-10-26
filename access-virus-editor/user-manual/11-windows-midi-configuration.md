@@ -8,7 +8,7 @@ However, if you use the synth as a master keyboard in your rig or you want to de
 
 Windows **CAN NOT** share MIDI devices between applications (DAW & Editor), therefore virtual ports are the only way to to use the hardware within the DAW and the Editor at the same time.
 
-**ATTENTION** : This is usually the step which is skipped and then you get connection timed out errors and such. Read the guide, it will save our time, your time and you will succeed with the setup!
+> **ATTENTION:** This is usually the step which is skipped and then you get connection timed out errors and such. Read the guide, it will save our time, your time and you will succeed with the setup!
 
 ## Additional Applications needed
 
@@ -27,7 +27,7 @@ The second application is loopMIDI by Tobias Erichsen which is perfect for creat
 
 You can download loopMIDI from here: https://www.tobias-erichsen.de/software/loopmidi.html
 
-**NOTE:** Windows remembers loopMIDI and MIDI-OX settings during each launch. If you do this once, that's all it takes!
+> **NOTE:** Windows remembers loopMIDI and MIDI-OX settings during each launch. If you do this once, that's all it takes!
 
 ## Install MIDI-OX and loopMIDI
 
@@ -81,7 +81,7 @@ Since we have Virus C in our setup as well, we are going to add the virtual port
 
 Since we are not using our Virus C to trigger notes or any other CC data to our DAW, we are only adding a virtual output port. There is no point in adding a virtual input port because it is not used in our case.
 
-**NOTE:** If you have multiple Viruses in your setup, add ports accordingly. We have Virus TI Keyboard and Virus C Desktop, so we added both.
+> **NOTE:** If you have multiple Viruses in your setup, add ports accordingly. We have Virus TI Keyboard and Virus C Desktop, so we added both.
 
 If you have two or more Virus Keyboards with same model, ie Virus TI Keyboards, then make the virtual ports naming obvious to yourself i.e. VirusTI #1 vIn, VirusTI #2 vIn etc.
 
@@ -139,7 +139,7 @@ Click **Options [1]** and then choose **MIDI Devices… [2]** .
 
 *Figure: Select MIDI Devices from the menu*
 
-**NOTE:** There are no Input Ports and Output Ports defined yet in the MIDI Port Routing Window!
+> **NOTE:** There are no Input Ports and Output Ports defined yet in the MIDI Port Routing Window!
 
 Now that the MIDI Devices config window is open, we can see all of your Physical and Virtual MIDI ports which are in our disposal. Before selecting any ports, **uncheck [1]** “ *Automatically attach Inputs to Outputs during selection.* ” or you will end up with a massive connection spaghetti which isn’t what we are making here!
 
@@ -177,7 +177,7 @@ Click **OK [1]** after you have verified your port selections.
 
 *Figure: midi-ox all done*
 
-**NOTE:** Your MIDI input and MIDI output ports for your synth might be different to our example so we are only using them to refer where our Virus is connected.
+> **NOTE:** Your MIDI input and MIDI output ports for your synth might be different to our example so we are only using them to refer where our Virus is connected.
 
 Once the MIDI ports are defined, MIDI-OX might automatically assign “MIDI-OX Event Port” to any of the Output Ports chosen.
 
@@ -201,7 +201,7 @@ Apply the same procedure for the MIDI input port from your device towards your V
 
 *Figure: midi-ox routing 2*
 
-**NOTE:** In order to establish the connection, you must drag the wire on top of the MIDI plug icon!
+> **NOTE:** In order to establish the connection, you must drag the wire on top of the MIDI plug icon!
 
 ## Filtering Virtual connection data
 

@@ -30,7 +30,7 @@ Final step before closing the Settings view is to make sure that you adjust your
 
 ![access virus editor ableton live adjust buffer](images/access-virus-editor-ableton-live-buffer.jpg)
 
-**NOTE**: If buffer setting is too low or too high, Virus TI USB stream will experience clicks and pops. You have to find a right balance for your setup by testing which works the best.
+> **NOTE:** If buffer setting is too low or too high, Virus TI USB stream will experience clicks and pops. You have to find a right balance for your setup by testing which works the best.
 
 I personally don’t have any issues running 64 Samples with my M1 powered Mac. In fact, I can easily run 256 inputs in the studio with all channels being enabled for monitoring / recording.
 
@@ -88,7 +88,7 @@ MIDI port configure opens the Settings dialog MIDI settings page. Scroll down th
 
 ![access virus editor ableton live set midi clock and tracking](images/access-virus-editor-ableton-live-assign-midi-clock.jpg)
 
-**NOTE**: After Initial sync is done with the Virus TI, you should double check the MIDI channels per parts. Virus TI doesn’t transmit the channel settings back to the Editor User Interface when Sequencer mode is toggled on.
+> **NOTE:** After Initial sync is done with the Virus TI, you should double check the MIDI channels per parts. Virus TI doesn’t transmit the channel settings back to the Editor User Interface when Sequencer mode is toggled on.
 
 ### Create Audio tracks
 

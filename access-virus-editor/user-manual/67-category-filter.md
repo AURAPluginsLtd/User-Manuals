@@ -12,4 +12,4 @@ More filter results are shown by clicking the **bank name [5]** area to reveal h
 
 Filtering only works in SINGLE BANK mode.
 
-**NOTE:** To adjust how category works, use the Utilities Menu -> Librarian Preferences to determine how category sorting works.
+> **NOTE:** To adjust how category works, use the Utilities Menu -> Librarian Preferences to determine how category sorting works.

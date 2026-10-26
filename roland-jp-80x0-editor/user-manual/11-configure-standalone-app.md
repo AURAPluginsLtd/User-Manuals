@@ -20,13 +20,13 @@ If you have an external MIDI controller you want to use with the Editor to trigg
 
 *Figure: Remote Keyboard Input available in Standalone App only!*
 
-**NOTE** : Audio Device Settings in the preferences dialog does not have capability to transmit audio in this stage. Choose Audio Drivers, but keep in mind that audio has to go through Audio Jacks to console or sound card inputs.
+> **NOTE:** Audio Device Settings in the preferences dialog does not have capability to transmit audio in this stage. Choose Audio Drivers, but keep in mind that audio has to go through Audio Jacks to console or sound card inputs.
 
 ## Hardware Check / Ping
 
 After setting MIDI OUT, our Editor will start scanning for the hardware. If there is no immediate response, the Editor will attempt 3 more times. If there is no response, you might get a “ **Connection Timed Out** ” message. If so, double check your hardware settings and make sure your cables are good!
 
-**NOTE:** MIDI ports for plug-in are set from the main window while Standalone Application MIDI ports are set from the Editor Preferences.
+> **NOTE:** MIDI ports for plug-in are set from the main window while Standalone Application MIDI ports are set from the Editor Preferences.
 
 Editor **Control Display** will say “ **Editor is ready to go!** ” when response is received from the JP.
 
@@ -42,4 +42,4 @@ You can optionally enable Device ID probing function, which will check for the D
 
 Check Main Functions and Librarian guides to learn more about the Editor usage.
 
-**NOTE:** If you have Device ID set to 17 on the JP and 17 on the Editor, our Editor will find and establish connection to your JP if everything else is configured properly.
+> **NOTE:** If you have Device ID set to 17 on the JP and 17 on the Editor, our Editor will find and establish connection to your JP if everything else is configured properly.

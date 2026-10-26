@@ -20,15 +20,15 @@ If you have an external MIDI controller you want to use with the Editor to trigg
 
 *Figure: Remote Keyboard Input available in Standalone App only!*
 
-**NOTE #1** : Audio Device Settings in the preferences dialog does not have capability to transmit audio in this stage. Choose Audio Drivers, but keep in mind that audio has to go through Audio Jacks to console or sound card inputs.
+> **NOTE #1:** Audio Device Settings in the preferences dialog does not have capability to transmit audio in this stage. Choose Audio Drivers, but keep in mind that audio has to go through Audio Jacks to console or sound card inputs.
 
-**NOTE #2** : Virus TI users can use Audiomovers Omnibus, Audiomovers Inject or macOS Native USB connection to establish audio connection to computer.
+> **NOTE #2:** Virus TI users can use Audiomovers Omnibus, Audiomovers Inject or macOS Native USB connection to establish audio connection to computer.
 
 ## Hardware Check / Ping
 
 After setting MIDI OUT, our Editor will start scanning for the hardware. If there is no immediate response, the Editor will attempt 3 more times. If there is no response, you might get a “ **Connection Timed Out** ” message. If so, double check your hardware settings and make sure your cables are good!
 
-**NOTE:** MIDI ports for plug-in are set from the main window while Standalone Application MIDI ports are set from the Editor Preferences.
+> **NOTE:** MIDI ports for plug-in are set from the main window while Standalone Application MIDI ports are set from the Editor Preferences.
 
 Editor **Control Display** will say “ **Editor is ready to go!** ” when response is received from the Virus.
 
@@ -44,4 +44,4 @@ You can optionally enable Device ID probing function, which will check for the D
 
 Check Main Functions and Librarian guides to learn more about the Editor usage.
 
-**NOTE:** If you have Device ID set to 1 on the Virus and 1 on the Editor, our Editor will find and establish connection to your Virus if everything else is configured properly.
+> **NOTE:** If you have Device ID set to 1 on the Virus and 1 on the Editor, our Editor will find and establish connection to your Virus if everything else is configured properly.

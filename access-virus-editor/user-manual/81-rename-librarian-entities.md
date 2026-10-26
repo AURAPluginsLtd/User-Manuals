@@ -12,4 +12,4 @@ This will open a small window, where you have to click on the **slot name [1]** 
 
 *Figure: rename entities*
 
-**NOTE:** New name is only applied by pressing ENTER on your keyboard. Clicking outside the box will cancel the renaming.
+> **NOTE:** New name is only applied by pressing ENTER on your keyboard. Clicking outside the box will cancel the renaming.

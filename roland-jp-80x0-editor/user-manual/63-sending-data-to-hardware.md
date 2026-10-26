@@ -39,7 +39,7 @@ Similar to User Interface Program Change DEC / INC buttons, incoming MIDI Progra
 
 Data is either sent to hardware from the Librarian View based on the incoming Program Change value or requested from the hardware to the Editor User Interface based on the same Program Change value.
 
-**NOTE:** When user toggles between LIB CONTROL states, REQUEST DATA ON PROGRAM CHANGE button gets disabled. Engage the button again if you want to request hardware programs to the Editor User Interface after MIDI Program Change is sent. See image below.
+> **NOTE:** When user toggles between LIB CONTROL states, REQUEST DATA ON PROGRAM CHANGE button gets disabled. Engage the button again if you want to request hardware programs to the Editor User Interface after MIDI Program Change is sent. See image below.
 
 ![librarian request data on program change](images/librarian-request-data-on-program-change.jpg)
 

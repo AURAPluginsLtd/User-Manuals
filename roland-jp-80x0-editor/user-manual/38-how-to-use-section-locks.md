@@ -12,4 +12,4 @@ When **LOCK [1]** is toggled on at any section, **RELEASE ALL LOCKS [2]** button
 
 *Figure: JP-80x0 Editor User Manual - Section Locks*
 
-**NOTE:** When you have sections locked, there will double the amount of SysEx traffic in the MIDI stream due to the fact that the Editor has to send the ”locked” info back to the hardware after the patch is changed. If you scroll patches from the librarian, then the data stream is normal.
+> **NOTE:** When you have sections locked, there will double the amount of SysEx traffic in the MIDI stream due to the fact that the Editor has to send the ”locked” info back to the hardware after the patch is changed. If you scroll patches from the librarian, then the data stream is normal.

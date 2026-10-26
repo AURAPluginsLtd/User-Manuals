@@ -1,6 +1,6 @@
 # Access Virus Editor – Configure Virus A, B, C, Rack and Rack XL
 
-**NOTE:** Menu and Button examples from Virus C user manual.
+> **NOTE:** Menu and Button examples from Virus C user manual.
 
 ![access virus config 1](images/access-virus-config-1.jpg)
 

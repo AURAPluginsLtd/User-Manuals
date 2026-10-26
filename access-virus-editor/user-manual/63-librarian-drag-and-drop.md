@@ -13,7 +13,7 @@ BUT you can NOT drag’n’drop data from **[3]** SOURCE -> SOURCE list. BUFFER 
 
 *Figure: librarian drag and drop*
 
-**NOTE:** You can also drag’n’drop data from Librarian slots to the PART name field, which will load the PATCH data to the part you drop it on!
+> **NOTE:** You can also drag’n’drop data from Librarian slots to the PART name field, which will load the PATCH data to the part you drop it on!
 
 ## Drag’n’Drop to PART
 
