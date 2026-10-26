@@ -28,7 +28,8 @@ UPDATE 2023-August-28
 ```
 
 ```
-[ macOS ] /Library/Audio/Presets/Mystery Islands Music/”plug-in name”/
+[ macOS ] ~/Documents/Mystery Islands Music/Korg MS2KxR Editor/license.key
+[ macOS ] ~/Documents/Mystery Islands Music/Korg microKxR Editor/license.key
 ```
 
 …in order to register. Reload your project or plug-in instance in order to validate.
