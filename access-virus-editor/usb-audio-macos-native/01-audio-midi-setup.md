@@ -63,8 +63,8 @@ So naming the channels should be done as you can see from the screenshot below.
 You can ignore the channel numbers 29 – 34, since they are completely setup dependant. For example, if I was to do this guide in our studio, there would be 256 inputs + Virus TI inputs.. In your setup it can be 8 inputs + Virus TI inputs etc.
 
 > **NOTE:** Virus TI is the last device in the Aggregate Device stack for two reasons!
->
-> **1)** if Virus TI usb connection is dropped / not found during the boot, device names prior to TI will be intact.  
-> **2)** it is much easier to remember that Virus TI usb outputs are the last 6 channels in your DAW inputs list.
+
+**1)** if Virus TI usb connection is dropped / not found during the boot, device names prior to TI will be intact.  
+**2)** it is much easier to remember that Virus TI usb outputs are the last 6 channels in your DAW inputs list.
 
 Before we will take a deep dive into **Ableton Live**, here is some thoughts and findings to-date:

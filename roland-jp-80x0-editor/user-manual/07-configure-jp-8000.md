@@ -31,4 +31,4 @@ MIDI CH (LOWER)  = 1
 MIDI CH (UPPER)  = 2
 ```
 
-**External Clock Note** : Arpeggiator will not play unless your DAW is able to provide a MIDI Clock. Windows: Check our method of using MIDI OX and LoopBe together to provide MIDI clock from DAW to your synth.
+> **NOTE:** Arpeggiator will not play unless your DAW is able to provide a MIDI Clock. Windows: Check our method of using MIDI OX and LoopBe together to provide MIDI clock from DAW to your synth.
