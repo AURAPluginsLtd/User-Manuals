@@ -12,4 +12,4 @@ Open **PATCH BROWSER [1]** tab and click **PUSH DATA TO HW [2]**. This will send
 
 *Figure: how to push data to hardware*
 
-**NOTE:** Data sending takes time depending which model you have in question. Let the Editor do its thing and don’t tweak any parameters during this time. It could potentially disturb the SysEx data sending process and you need to start again.
+> **NOTE:** Data sending takes time depending which model you have in question. Let the Editor do its thing and don’t tweak any parameters during this time. It could potentially disturb the SysEx data sending process and you need to start again.

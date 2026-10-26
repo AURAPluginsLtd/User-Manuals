@@ -12,4 +12,4 @@ More search results are shown by clicking the **bank name [5]** area to reveal h
 
 Search follows the current Librarian View mode, ie. PATCH mode shows results only from Patch banks, while Performance mode shows only results from Performance banks.
 
-**NOTE:** To adjust how search works, use the Utilities Menu -> Librarian Preferences to determine how search works.
+> **NOTE:** To adjust how search works, use the Utilities Menu -> Librarian Preferences to determine how search works.

@@ -1,6 +1,6 @@
 # Access Virus Editor – Request Multi Data from Hardware
 
-**NOTE:** To successfully request the multi data from the hardware, STOP all activities on your DAW so that the SysEx data is received as expected!
+> **NOTE:** To successfully request the multi data from the hardware, STOP all activities on your DAW so that the SysEx data is received as expected!
 
 ## from Temp Buffer to Editor GUI
 

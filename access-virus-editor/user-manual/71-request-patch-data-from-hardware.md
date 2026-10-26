@@ -1,6 +1,6 @@
 # Access Virus Editor – Request Patch Data from Hardware
 
-**NOTE:** To successfully request the patch data from the hardware, STOP all activities on your DAW so that the SysEx data is received as expected!
+> **NOTE:** To successfully request the patch data from the hardware, STOP all activities on your DAW so that the SysEx data is received as expected!
 
 ## from Active Layer to Editor GUI
 
@@ -48,7 +48,7 @@ You can achieve the same result with **right mouse click** at the top of any slo
 
 *Figure: request patch data - request from program slot*
 
-**NOTE:** BANK menu selection in **Editor Control Display** defines the Bank Address for hardware requests!
+> **NOTE:** BANK menu selection in **Editor Control Display** defines the Bank Address for hardware requests!
 
 ## All Patches from RAM A…D
 

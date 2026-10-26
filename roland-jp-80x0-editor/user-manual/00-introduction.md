@@ -12,9 +12,7 @@ Roland JP-80x0 Editor User Manual contains instructions to get the Editor instal
 
 Let's dig in!
 
-**DISCLAIMER**
-
-Our company & product has nothing to do with Roland Corporation.  
-If there is an issue with our product, open a support ticket from my account page.  
-You can find support details at the end of this document.  
-Updates are free per release year. Check FAQ for more details.
+> **DISCLAIMER:** Our company & product has nothing to do with Roland Corporation.  
+> If there is an issue with our product, open a support ticket from my account page.  
+> You can find support details at the end of this document.  
+> Updates are free per release year. Check FAQ for more details.

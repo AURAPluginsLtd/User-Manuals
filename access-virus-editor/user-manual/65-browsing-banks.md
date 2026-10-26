@@ -16,4 +16,4 @@ Same applies to Multi files when **MULTI BANK MODE [1]** is toggled on. Users ca
 
 *Figure: browsing banks in multi mode*
 
-**NOTE:** When a bank is selected, slot names are updated in the list view with corresponding program names.
+> **NOTE:** When a bank is selected, slot names are updated in the list view with corresponding program names.

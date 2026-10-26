@@ -16,4 +16,4 @@ When PERFORMANCE MODE is toggled on, Editor will show the PERFORMANCE banks in t
 
 When PERFORMANCE is loaded, it will overwrite both panels on the hardware temp memory.
 
-**NOTE:** With Section Locks, you can lock a specific section from Performance Changes. ie, if the UPPER PANEL is locked, then changing Performance only affects the LOWER PANEL.
+> **NOTE:** With Section Locks, you can lock a specific section from Performance Changes. ie, if the UPPER PANEL is locked, then changing Performance only affects the LOWER PANEL.

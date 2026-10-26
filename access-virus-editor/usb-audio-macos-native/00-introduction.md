@@ -1,6 +1,6 @@
 # Introduction
 
-**NOTE**: Video link to setup Virus TI USB Audio with macOS available at the end of this User Guide!
+> **NOTE:** Video link to setup Virus TI USB Audio with macOS available at the end of this User Guide!
 
 ## Access Virus TI USB Audio with macOS 10.12 and greater – Is it going to work?
 
@@ -51,4 +51,4 @@ check and make sure that *AURA Plugins Virus TI USB Midi.plugin* is **installed*
 
 Reboot your computer. Power up your Virus TI and wait until it is booted. Plug in the USB cable. Virus TI display will say “Audio clock changed” and “USB” text will appear in the top right corner.
 
-**NOTE**: Read our Access Virus User Manual article about USB & MIDI connections here: [Prepare your Hardware](../user-manual/06-prepare-your-hardware.md)
+> **NOTE:** Read our Access Virus User Manual article about USB & MIDI connections here: [Prepare your Hardware](../user-manual/06-prepare-your-hardware.md)

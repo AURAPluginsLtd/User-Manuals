@@ -6,4 +6,4 @@ Open the **BANK EDIT** menu and choose **Push Current Data to HW** to send your 
 
 *Figure: push current data to hardware*
 
-**NOTE:** With Push Current Data to HW function you can recover your User Interface data back to your Hardware in case your MIDI interface ports are different to previously set ports!
+> **NOTE:** With Push Current Data to HW function you can recover your User Interface data back to your Hardware in case your MIDI interface ports are different to previously set ports!

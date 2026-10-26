@@ -20,11 +20,11 @@ Saving bank with **Virus|Powercore** will strip down all the Virus C and Virus T
 
 *Figure: saving banks - save as*
 
-**NOTE #1** : You can always DISCARD any changes you’ve made in the Librarian by clicking the **DISCARD [1]** button.
+> **NOTE #1:** You can always DISCARD any changes you’ve made in the Librarian by clicking the **DISCARD [1]** button.
 
-**NOTE #2** : You can see an exclamation mark **[2]** right next to PATCH LIBRARIAN toggle in the main User Interface IF Librarian has any unsaved changes! This will disappear once save or discard is triggered.
+> **NOTE #2:** You can see an exclamation mark **[2]** right next to PATCH LIBRARIAN toggle in the main User Interface IF Librarian has any unsaved changes! This will disappear once save or discard is triggered.
 
-**NOTE #3** : Librarian Mode toggle becomes unavailable IF there are any unsaved changes in the Librarian.
+> **NOTE #3:** Librarian Mode toggle becomes unavailable IF there are any unsaved changes in the Librarian.
 
 ![saving banks - unsaved changes indicator](images/saving-banks-unsaved-changes-indicator.jpg)
 

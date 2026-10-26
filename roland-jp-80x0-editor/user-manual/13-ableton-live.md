@@ -1,8 +1,6 @@
 # Roland JP-80×0 Editor – Ableton Live
 
-DISCLAIMER
-
-*Our company & product has nothing to do with Ableton AG. If there is an issue with our product, open a support ticket in your account page. You can find support details at the end of this document. Support and updates are free to anyone who has bought the license from our store*
+> **DISCLAIMER:** *Our company & product has nothing to do with Ableton AG. If there is an issue with our product, open a support ticket in your account page. You can find support details at the end of this document. Support and updates are free to anyone who has bought the license from our store*
 
 ## Audio Configuration
 
@@ -40,7 +38,7 @@ Now you can Enable **Roland JP-8000 vIn [3]** to trigger other VSTs in your sess
 
 *Figure: Modify Live MIDI ports*
 
-**ATTENTION :** Our Editor uses DIRECT connection from MIDI interface to the hardware. Therefore the hardware ports need to be disabled from the DAW settings!
+> **ATTENTION:** Our Editor uses DIRECT connection from MIDI interface to the hardware. Therefore the hardware ports need to be disabled from the DAW settings!
 
 While we are at it, let's **enable virtual ports [1]** created in loopMIDI / MIDI-OX guide. When you use the virtual ports on MIDI tracks, you get tight DAW timing. Note that **physical MIDI ports [2]** are unchecked so that we can use them with the Editor.
 

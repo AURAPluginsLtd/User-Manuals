@@ -20,4 +20,4 @@ If you have learned MIDI CC controls from your master controller you can save th
 
 *Figure: save and load cc maps via utils menu*
 
-**NOTE:** Loading custom CC mappings does not over-ride hardware CC messages. ie. Cutoff 1 from hardware is still assigned to #40, while DAW (midi controller) CC is mapped to #12
+> **NOTE:** Loading custom CC mappings does not over-ride hardware CC messages. ie. Cutoff 1 from hardware is still assigned to #40, while DAW (midi controller) CC is mapped to #12

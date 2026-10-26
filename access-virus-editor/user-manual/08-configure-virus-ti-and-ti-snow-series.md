@@ -2,7 +2,7 @@
 
 After Virus is powered up, enter System settings and apply the following settings.
 
-**NOTE:** Menu and Button examples from Virus TI Desktop user manual.
+> **NOTE:** Menu and Button examples from Virus TI Desktop user manual.
 
 ![access virus ti config 1](images/access-virus-ti-config-1.jpg)
 
@@ -32,4 +32,4 @@ All set! We are now ready to open our plug-in in DAW or Standalone Application!
 
 To get more information about how to adjust your synth, read the Access Virus User Manual.
 
-**External Clock Note** : Arpeggiator will not play unless your DAW is able to provide a MIDI Clock. Windows: Check our method of using MIDI OX and LoopBe together to provide MIDI clock from DAW to your synth.
+> **NOTE:** Arpeggiator will not play unless your DAW is able to provide a MIDI Clock. Windows: Check our method of using MIDI OX and LoopBe together to provide MIDI clock from DAW to your synth.

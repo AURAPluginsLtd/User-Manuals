@@ -10,9 +10,7 @@ We built our Access Virus Editor to control Virus A, Virus B, Virus Rack, Virus 
 
 Access Virus Editor User Manual contains instructions to get the Editor installed and configured. Please read this manual through carefully. Any feedback with comments on how to improve the documentation is welcomed.
 
-**DISCLAIMER**
-
-Our company & product has nothing to do with Access Music GmbH.  
-If there is an issue with our product, open a support ticket from my account page.  
-You can find support details at the end of this document.  
-Updates are free per release year. Check FAQ for more details.
+> **DISCLAIMER:** Our company & product has nothing to do with Access Music GmbH.  
+> If there is an issue with our product, open a support ticket from my account page.  
+> You can find support details at the end of this document.  
+> Updates are free per release year. Check FAQ for more details.

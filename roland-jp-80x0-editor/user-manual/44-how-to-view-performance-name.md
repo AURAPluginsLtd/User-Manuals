@@ -6,4 +6,4 @@
 
 *Figure: JP-80x0 Editor User Manual - Performance Name Display*
 
-**NOTE:** Renaming the Performance from the “Control Display” window does not change the name in the librarian. If you want to rename librarian items, check Related Docs below or use search function.
+> **NOTE:** Renaming the Performance from the “Control Display” window does not change the name in the librarian. If you want to rename librarian items, check Related Docs below or use search function.

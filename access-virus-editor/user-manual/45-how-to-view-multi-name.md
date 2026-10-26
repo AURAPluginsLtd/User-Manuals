@@ -6,4 +6,4 @@ You can view and Edit **MULTI NAME [1]** when Editor MAIN TAB is set to **MULTIM
 
 *Figure: how to view multi name*
 
-**NOTE:** Renaming Multi from the “MULTI SETTINGS” view does not change the name in the librarian. If you want to rename librarian items, check Related Docs below or use search function.
+> **NOTE:** Renaming Multi from the “MULTI SETTINGS” view does not change the name in the librarian. If you want to rename librarian items, check Related Docs below or use search function.

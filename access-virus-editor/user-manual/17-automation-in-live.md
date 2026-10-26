@@ -10,7 +10,7 @@ You can automate almost every parameter of your Virus with our Editor in DAW wit
 
 *Figure: access virus ableton live automation config*
 
-**NOTE:** Parameters sent as **MIDI CC** can be automated smoothly. Automating **SysEx**-based parameters may make the Editor user interface or your DAW sluggish. We are looking into the cause. If you need to automate a SysEx parameter, automate a MIDI controller that the Virus accepts as a modulation source instead (for example Mod Wheel, Breath, Expression or Controller 12–16), and route it to that parameter in the Virus Mod Matrix (ASSIGN slots on Virus A, B and C; Matrix slots on Virus TI). See your Virus hardware User Manual for the Mod Matrix steps.
+> **NOTE:** Parameters sent as **MIDI CC** can be automated smoothly. Automating **SysEx**-based parameters may make the Editor user interface or your DAW sluggish. We are looking into the cause. If you need to automate a SysEx parameter, automate a MIDI controller that the Virus accepts as a modulation source instead (for example Mod Wheel, Breath, Expression or Controller 12–16), and route it to that parameter in the Virus Mod Matrix (ASSIGN slots on Virus A, B and C; Matrix slots on Virus TI). See your Virus hardware User Manual for the Mod Matrix steps.
 
 Now if you move parameters from the **Editor User Interface [1]** or Hardware, Live will register the **parameters [2]** .
 

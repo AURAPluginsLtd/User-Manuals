@@ -18,7 +18,7 @@ Executes search so that if you type “ **bass** ” in the search field and the
 
 This will by default write all the bank changes to the HDD up on action. ie if you paste data to the librarian slot, then data gets overwritten in HDD immediately.
 
-**NOTE:** Autosave Doesn’t have UNDO / REDO functions. Everything you do with Autosave toggled on are permanent changes!
+> **NOTE:** Autosave Doesn’t have UNDO / REDO functions. Everything you do with Autosave toggled on are permanent changes!
 
 ## Show Quick Edit by Default
 

@@ -16,7 +16,7 @@ MIDI Interface that can handle System Exclusive messages.
 - ESI MidiMate eX has proven to be good
 - Roland UM-ONE mkII has proven to be good
 
-**ATTENTION** : Cheap 1 In and 1 Out MIDI-USB cables might not pass System Exclusive messages to the hardware, so check the compatibility from the manufacturer before you make the purchase!
+> **ATTENTION:** Cheap 1 In and 1 Out MIDI-USB cables might not pass System Exclusive messages to the hardware, so check the compatibility from the manufacturer before you make the purchase!
 
 ## Computer Requirements
 

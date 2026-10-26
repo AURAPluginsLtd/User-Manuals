@@ -12,11 +12,9 @@ Waldorf Q Editor User Manual contains instructions to get the Editor installed a
 
 https://docs.auraplugins.com/kb/user-guide/waldorf-qxr-user-manual/
 
-**DISCLAIMER**
-
-Our company & product has nothing to do with Waldorf Music GmbH.  
-If there is an issue with our product, open a support ticket from my account page.  
-You can find support details at the end of this document.  
-Updates are free per release year. Check FAQ for more details.
+> **DISCLAIMER:** Our company & product has nothing to do with Waldorf Music GmbH.  
+> If there is an issue with our product, open a support ticket from my account page.  
+> You can find support details at the end of this document.  
+> Updates are free per release year. Check FAQ for more details.
 
 > **NOTE:** This manual is still being worked on. Until it's complete, please refer to the [Access Virus Editor User Manual](../../access-virus-editor/user-manual/00-introduction.md) or the [Roland JP-80x0 Editor User Manual](../../roland-jp-80x0-editor/user-manual/00-introduction.md) for how the editor's functions work.

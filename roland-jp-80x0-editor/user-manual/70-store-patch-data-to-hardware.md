@@ -1,6 +1,6 @@
 # Roland JP-80×0 Editor – Store Patch Data to Hardware
 
-**NOTE** : Before you start data writing to hardware, make sure you know which slot you are overwriting and STOP all activities on your DAW in regards to the hardware to ensure data is written properly!
+> **NOTE:** Before you start data writing to hardware, make sure you know which slot you are overwriting and STOP all activities on your DAW in regards to the hardware to ensure data is written properly!
 
 ## To Currently Selected Slot & Bank
 

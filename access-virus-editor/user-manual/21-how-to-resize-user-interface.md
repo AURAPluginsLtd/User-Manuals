@@ -24,4 +24,4 @@ You can also set the “default” scaling level by opening the Utilities **[1]*
 
 *Figure: set ui defaults*
 
-**NOTE:** If your display cannot handle HD graphics and / or you have not enabled use of hi-res graphics, scaling results might look unpleasant. Adjust settings to your likings. Loading hi-res graphics takes longer for the Editor view to open.
+> **NOTE:** If your display cannot handle HD graphics and / or you have not enabled use of hi-res graphics, scaling results might look unpleasant. Adjust settings to your likings. Loading hi-res graphics takes longer for the Editor view to open.

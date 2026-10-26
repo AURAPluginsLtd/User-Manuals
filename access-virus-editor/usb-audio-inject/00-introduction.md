@@ -1,6 +1,6 @@
 # Introduction
 
-**NOTE**: Video link to setup Virus TI USB Audio with Inject will available shortly!
+> **NOTE:** Video link to setup Virus TI USB Audio with Inject will available shortly!
 
 ## Access Virus TI USB Audio with Inject
 
@@ -20,7 +20,7 @@ OK, let’s get into it. What do you need?
 
 Install our Access Virus Editor from the [downloads](https://auraplugins.com/downloads/access-virus-editor/) page. Demo works too, but you are missing a lot features with it ($69.95 is a very small fee for a fully working editor)! In macOS it is important to remove the original Access Virus Control software, [here is the uninstall instructions](../usb-audio-macos-native/00-introduction.md) (Steps 1, 2 and 3).
 
-**NOTE**: This Guide is written in macOS 12.7.6 – Windows App might be a bit different, but you’ll find the configuration is pretty much the same!
+> **NOTE:** This Guide is written in macOS 12.7.6 – Windows App might be a bit different, but you’ll find the configuration is pretty much the same!
 
 ### Install Audiomovers INJECT
 

@@ -1,8 +1,6 @@
 # Access Virus Editor – Ableton Live
 
-DISCLAIMER
-
-*Our company & product has nothing to do with Ableton AG. If there is an issue with our product, open a support ticket in your account page. You can find support details at the end of this document. Support and updates are free to anyone who has bought the license from our store*
+> **DISCLAIMER:** *Our company & product has nothing to do with Ableton AG. If there is an issue with our product, open a support ticket in your account page. You can find support details at the end of this document. Support and updates are free to anyone who has bought the license from our store*
 
 ## Audio Configuration
 
@@ -46,7 +44,7 @@ Then move onto **Input Ports [3]** , **Output Ports [4]** and **disable all boxe
 
 *Figure: access virus ableton live pref midi config*
 
-**ATTENTION** : Our Editor uses DIRECT connection from MIDI interface to the hardware. Therefore the hardware ports need to be disabled from the DAW settings!
+> **ATTENTION:** Our Editor uses DIRECT connection from MIDI interface to the hardware. Therefore the hardware ports need to be disabled from the DAW settings!
 
 While we are at it, let's **enable virtual input ports [1]** created in loopMIDI / MIDI-OX guide for the Virus TI Keyboard so we can play any MIDI track in Live.
 
@@ -62,4 +60,4 @@ Once these settings are dialed in, you can **close [2]** the preferences.
 
 *Figure: access virus ableton live pref midi outputs*
 
-**NOTE:** Virus TI is known to have ARP sync issues / notes drifting – This is something we can’t fix as it is a hardware issue out of our reach!
+> **NOTE:** Virus TI is known to have ARP sync issues / notes drifting – This is something we can’t fix as it is a hardware issue out of our reach!

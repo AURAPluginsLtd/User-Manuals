@@ -16,4 +16,4 @@ Same applies to Performances when **PERFORMANCE MODE [1]** is toggled on. Users 
 
 *Figure: librarian performance banks*
 
-**NOTE:** When a bank is selected, slot names are updated in the list view with corresponding program names.
+> **NOTE:** When a bank is selected, slot names are updated in the list view with corresponding program names.

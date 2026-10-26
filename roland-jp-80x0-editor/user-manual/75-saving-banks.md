@@ -18,11 +18,11 @@ We recommend j8k format, but standard MIDI works too – it is up to you.
 
 *Figure: save as*
 
-**NOTE #1 :** You can always DISCARD any changes you’ve made in the Librarian by clicking the **DISCARD [1]** button.
+> **NOTE #1:** You can always DISCARD any changes you’ve made in the Librarian by clicking the **DISCARD [1]** button.
 
-**NOTE #2 :** You can see a **red asterix [2]** right next to the BROWSER toggle in the main User Interface IF Librarian has any unsaved changes! This will disappear once save or discard is triggered.
+> **NOTE #2:** You can see a **red asterix [2]** right next to the BROWSER toggle in the main User Interface IF Librarian has any unsaved changes! This will disappear once save or discard is triggered.
 
-**NOTE #3 :** Librarian Mode toggle becomes unavailable IF there are any unsaved changes in the Librarian.
+> **NOTE #3:** Librarian Mode toggle becomes unavailable IF there are any unsaved changes in the Librarian.
 
 ![discard bank changes](images/discard-bank-changes.jpg)
 

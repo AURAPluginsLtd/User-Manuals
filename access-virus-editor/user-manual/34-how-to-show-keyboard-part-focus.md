@@ -23,4 +23,4 @@ When **SHOW KEYBOARD [1]** is toggled on, the Editor will focus all incoming MID
 
 *Figure: how to show keyboard (part focus)*
 
-**NOTE:** When DAW playback is on, MIDI data is transmitted normally per part.
+> **NOTE:** When DAW playback is on, MIDI data is transmitted normally per part.

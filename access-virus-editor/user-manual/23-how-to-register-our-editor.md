@@ -20,7 +20,7 @@ If you have a plug-in inserted to your project, now it is time to delete the tra
 
 **Rename** license.key manually as “Access Virus Editor.license” and copy it to the Editor **data** folder (see location mentioned earlier). If all is good, you can now re-insert your plug-in to your DAW.
 
-**NOTE:** Right click the license file on macOS and select “show info”. After that make sure the file name is shown as above. If it has a .key or .txt extension in it, remove it!
+> **NOTE:** Right click the license file on macOS and select “show info”. After that make sure the file name is shown as above. If it has a .key or .txt extension in it, remove it!
 
 ![how to register our editor - license location](images/how-to-register-our-editor-license-location.jpg)
 
