@@ -15,4 +15,6 @@ There are a few reasons why this could happen, so let’s make sure everything i
 
 If all of these conditions are right and the Editor still fails, check the MIDI interface specs to ensure it can handle large SysEx packages which the Editor & Hardware uses to send program data back and forth.
 
-You can open a ticket with our Support Team if you’re stuck.
+The setup guides for your Editor are in the AURA Plugins Download Manager: **Support** → **Knowledge Base** → choose your Editor.
+
+You can open a ticket with our Support Team if you’re stuck: **Support** → **Tickets** → **Open a ticket**.
